@@ -1,0 +1,2606 @@
+Age bucket,job_segment,injury_segment,Wage buckets
+Thirties,transportation,leg,20-30 USD
+Fifties,Mechanical,leg,20-30 USD
+Fifties,Physical,back,10-20 USD
+Fourties,Mechanical,hand,10-20 USD
+Thirties,Mechanical,hand,20-30 USD
+Thirties,Mechanical,back,20-30 USD
+Fifties,transportation,back,10-20 USD
+Twenties,Desk_Job,untagged,0-10 USD
+Fourties,Mechanical,back,20-30 USD
+Thirties,home/restaurant,back,0-10 USD
+0-20,Other Indoor,back,10-20 USD
+Fourties,Other Indoor,back,10-20 USD
+0-20,Other Indoor,back,10-20 USD
+Twenties,Mechanical,head & neck,10-20 USD
+Twenties,white_collar,head & neck,0-10 USD
+Fourties,Mechanical,head & neck,10-20 USD
+Thirties,construction,hand,10-20 USD
+Fourties,white_collar,untagged,20-30 USD
+Fifties,transportation,untagged,20-30 USD
+>60,Other Indoor,head & neck,20-30 USD
+Twenties,Other Indoor,back,0-10 USD
+Fourties,Mechanical,hernia,10-20 USD
+Twenties,Other Indoor,hand,10-20 USD
+Thirties,Other Indoor,hand,10-20 USD
+Fourties,Other Indoor,head & neck,0-10 USD
+Fourties,home/restaurant,leg,10-20 USD
+Twenties,Physical,leg,10-20 USD
+Fourties,home/restaurant,leg,0-10 USD
+Fourties,Other Outdoor,head & neck,20-30 USD
+Thirties,Physical,hand,10-20 USD
+Fourties,Other Indoor,back,0-10 USD
+Fourties,Other Indoor,back,0-10 USD
+Fourties,transportation,back,10-20 USD
+Thirties,home/restaurant,hand,10-20 USD
+Fourties,Other Indoor,untagged,20-30 USD
+Fifties,Mechanical,untagged,10-20 USD
+Thirties,white_collar,brain,>100 USD
+Thirties,Physical,hand,10-20 USD
+>60,Mechanical,leg,10-20 USD
+Twenties,Mechanical,hand,0-10 USD
+Fourties,Physical,leg,10-20 USD
+Fifties,Physical,leg,0-10 USD
+>60,white_collar,hand,20-30 USD
+Fourties,transportation,hand,10-20 USD
+Fourties,transportation,hand,10-20 USD
+Thirties,home/restaurant,hand,0-10 USD
+Fourties,transportation,brain,10-20 USD
+>60,transportation,head & neck,10-20 USD
+Fifties,transportation,brain,30-40 USD
+Fourties,white_collar,back,30-40 USD
+Fifties,Other Indoor,brain,>100 USD
+Thirties,home/restaurant,back,10-20 USD
+Thirties,transportation,leg,20-30 USD
+>60,Other Indoor,head & neck,20-30 USD
+Fourties,transportation,back,30-40 USD
+Fifties,Other Indoor,hand,30-40 USD
+Thirties,Other Indoor,chest & lungs,>100 USD
+>60,transportation,back,20-30 USD
+Fourties,transportation,back,20-30 USD
+Fifties,Other Indoor,hand,10-20 USD
+Thirties,Physical,back,10-20 USD
+Fourties,Mechanical,head & neck,10-20 USD
+Fifties,Physical,head & neck,10-20 USD
+Thirties,Mechanical,back,10-20 USD
+Fourties,home/restaurant,back,0-10 USD
+Twenties,Other Indoor,back,10-20 USD
+Twenties,Mechanical,back,0-10 USD
+Fourties,Other Outdoor,back,0-10 USD
+Twenties,Other Outdoor,back,10-20 USD
+Fifties,Other Outdoor,back,>100 USD
+Thirties,Other Indoor,head & neck,10-20 USD
+Fourties,Other Indoor,back,10-20 USD
+>60,transportation,back,10-20 USD
+Fourties,construction,chest & lungs,10-20 USD
+Twenties,Mechanical,head & neck,10-20 USD
+>60,Physical,leg,10-20 USD
+Fourties,Other Outdoor,leg,10-20 USD
+Twenties,Physical,back,10-20 USD
+0-20,Other Indoor,chest & lungs,10-20 USD
+Fifties,Other Indoor,back,10-20 USD
+Twenties,white_collar,brain,10-20 USD
+Fifties,Other Indoor,brain,10-20 USD
+0-20,home/restaurant,head & neck,10-20 USD
+Thirties,Other Indoor,hand,10-20 USD
+Fifties,white_collar,untagged,0-10 USD
+Thirties,Physical,brain,10-20 USD
+Thirties,Other Indoor,brain,20-30 USD
+Fourties,Mechanical,head & neck,10-20 USD
+Fourties,Physical,back,>100 USD
+Twenties,white_collar,untagged,10-20 USD
+Thirties,white_collar,untagged,10-20 USD
+Thirties,Physical,leg,10-20 USD
+Twenties,Other Outdoor,leg,0-10 USD
+Twenties,Other Indoor,hand,10-20 USD
+Twenties,Other Indoor,head & neck,10-20 USD
+Twenties,Other Outdoor,leg,0-10 USD
+Fifties,Desk_Job,leg,30-40 USD
+Thirties,Other Indoor,hand,10-20 USD
+Twenties,white_collar,leg,10-20 USD
+Fifties,Other Indoor,hand,10-20 USD
+Thirties,Mechanical,hand,10-20 USD
+Twenties,Physical,back,10-20 USD
+Thirties,Desk_Job,head & neck,10-20 USD
+Fourties,Other Indoor,back,0-10 USD
+Fourties,transportation,back,10-20 USD
+Twenties,Desk_Job,back,10-20 USD
+Thirties,Other Indoor,back,10-20 USD
+Fifties,construction,head & neck,20-30 USD
+Fifties,transportation,hand,20-30 USD
+Fourties,Other Indoor,back,10-20 USD
+Fourties,Physical,hand,10-20 USD
+Twenties,Physical,hand,10-20 USD
+Fifties,Physical,hand,10-20 USD
+Fifties,Mechanical,hand,10-20 USD
+Fifties,Mechanical,hand,0-10 USD
+Fourties,Other Outdoor,leg,10-20 USD
+Twenties,Mechanical,leg,10-20 USD
+Fifties,Mechanical,leg,0-10 USD
+Twenties,home/restaurant,back,10-20 USD
+Twenties,white_collar,leg,10-20 USD
+Thirties,Mechanical,hand,10-20 USD
+Fifties,transportation,hand,10-20 USD
+>60,transportation,back,>100 USD
+Fifties,white_collar,hand,20-30 USD
+Thirties,Desk_Job,back,10-20 USD
+Fifties,Desk_Job,back,10-20 USD
+Fourties,Mechanical,hand,10-20 USD
+Fifties,transportation,leg,10-20 USD
+Fourties,Physical,head & neck,20-30 USD
+Twenties,Physical,head & neck,10-20 USD
+Thirties,Other Indoor,back,10-20 USD
+Thirties,Other Indoor,leg,10-20 USD
+0-20,Other Indoor,hand,0-10 USD
+0-20,white_collar,hand,10-20 USD
+Twenties,Physical,leg,20-30 USD
+Fifties,construction,back,50-100 USD
+Fifties,Mechanical,leg,20-30 USD
+Fifties,Desk_Job,leg,10-20 USD
+Fourties,Other Indoor,hand,20-30 USD
+Fifties,Physical,leg,0-10 USD
+Fourties,Desk_Job,hand,10-20 USD
+Fifties,Mechanical,head & neck,30-40 USD
+Fourties,Mechanical,head & neck,20-30 USD
+Fourties,construction,back,20-30 USD
+Fourties,Mechanical,leg,10-20 USD
+Fourties,Other Indoor,untagged,50-100 USD
+Fifties,Other Indoor,chest & lungs,50-100 USD
+Fourties,Other Indoor,leg,30-40 USD
+Fifties,Desk_Job,back,30-40 USD
+>60,Desk_Job,hand,10-20 USD
+Fifties,Other Outdoor,back,0-10 USD
+Thirties,Physical,hand,10-20 USD
+Fourties,Other Indoor,head & neck,10-20 USD
+Fourties,Physical,hand,10-20 USD
+Fifties,transportation,back,10-20 USD
+Thirties,Other Indoor,leg,10-20 USD
+0-20,Desk_Job,chest & lungs,0-10 USD
+>60,transportation,hand,10-20 USD
+Fifties,transportation,back,0-10 USD
+Fifties,Physical,back,10-20 USD
+Thirties,home/restaurant,leg,20-30 USD
+Twenties,Mechanical,hand,20-30 USD
+Fourties,Other Indoor,back,10-20 USD
+Fifties,Other Indoor,back,10-20 USD
+Thirties,transportation,leg,0-10 USD
+Fifties,Desk_Job,back,20-30 USD
+Fifties,Desk_Job,brain,20-30 USD
+Fourties,Mechanical,head & neck,10-20 USD
+Twenties,Desk_Job,back,10-20 USD
+Fifties,home/restaurant,back,20-30 USD
+Fifties,Desk_Job,leg,20-30 USD
+Fourties,transportation,leg,20-30 USD
+Fourties,Mechanical,untagged,20-30 USD
+Fourties,Physical,hand,10-20 USD
+Fifties,Physical,hand,20-30 USD
+Fourties,Physical,leg,10-20 USD
+Fourties,Mechanical,hernia,10-20 USD
+Thirties,white_collar,hernia,0-10 USD
+>60,Other Indoor,head & neck,0-10 USD
+Twenties,Desk_Job,hand,0-10 USD
+Thirties,home/restaurant,chest & lungs,10-20 USD
+Twenties,Desk_Job,brain,10-20 USD
+Twenties,Desk_Job,hand,10-20 USD
+Fourties,Other Indoor,back,10-20 USD
+Twenties,Other Indoor,hand,20-30 USD
+>60,Mechanical,leg,40-50 USD
+Fourties,construction,hand,40-50 USD
+Fourties,Mechanical,leg,10-20 USD
+Fifties,Mechanical,back,30-40 USD
+Fourties,transportation,hand,30-40 USD
+>60,Mechanical,hand,10-20 USD
+>60,Other Outdoor,back,40-50 USD
+Fifties,Other Indoor,back,40-50 USD
+Fifties,Mechanical,hand,20-30 USD
+Thirties,Physical,untagged,20-30 USD
+Thirties,construction,back,10-20 USD
+Fourties,Physical,hand,20-30 USD
+Thirties,Other Indoor,hand,30-40 USD
+Fourties,transportation,back,20-30 USD
+Fifties,Mechanical,hand,20-30 USD
+Thirties,Desk_Job,leg,20-30 USD
+Fifties,transportation,head & neck,20-30 USD
+Thirties,Mechanical,chest & lungs,10-20 USD
+Thirties,Desk_Job,leg,20-30 USD
+Fifties,Other Indoor,untagged,20-30 USD
+Fifties,transportation,leg,20-30 USD
+Fifties,transportation,hand,20-30 USD
+Fifties,transportation,hand,10-20 USD
+Fourties,Other Indoor,back,20-30 USD
+>60,home/restaurant,brain,30-40 USD
+Fourties,transportation,back,40-50 USD
+Fourties,Other Indoor,leg,10-20 USD
+Twenties,white_collar,back,20-30 USD
+Fifties,transportation,chest & lungs,10-20 USD
+Fourties,Mechanical,head & neck,10-20 USD
+Fourties,transportation,back,20-30 USD
+Thirties,Physical,back,10-20 USD
+Fourties,Mechanical,untagged,20-30 USD
+Fifties,Physical,chest & lungs,20-30 USD
+>60,transportation,leg,20-30 USD
+>60,transportation,chest & lungs,10-20 USD
+Fourties,Physical,hand,20-30 USD
+Fourties,transportation,back,10-20 USD
+Thirties,transportation,hand,20-30 USD
+Fourties,home/restaurant,leg,20-30 USD
+Fourties,Mechanical,head & neck,20-30 USD
+Fourties,Other Indoor,leg,20-30 USD
+Fourties,transportation,head & neck,10-20 USD
+Fourties,transportation,back,20-30 USD
+Thirties,Other Indoor,untagged,20-30 USD
+Fifties,Other Indoor,head & neck,20-30 USD
+Fifties,Mechanical,leg,10-20 USD
+Twenties,transportation,head & neck,10-20 USD
+Fifties,Physical,back,30-40 USD
+Thirties,Physical,back,20-30 USD
+Fifties,transportation,leg,20-30 USD
+Twenties,Mechanical,leg,10-20 USD
+Fourties,Mechanical,back,20-30 USD
+Twenties,home/restaurant,back,20-30 USD
+Fourties,transportation,head & neck,20-30 USD
+Thirties,Physical,brain,10-20 USD
+Fourties,transportation,back,30-40 USD
+Fifties,Physical,brain,30-40 USD
+Fourties,transportation,leg,10-20 USD
+Twenties,transportation,hand,20-30 USD
+>60,Other Indoor,hand,>100 USD
+Thirties,transportation,brain,30-40 USD
+>60,transportation,hand,10-20 USD
+Fifties,transportation,back,20-30 USD
+Twenties,transportation,leg,10-20 USD
+>60,Other Indoor,hand,>100 USD
+Thirties,Other Indoor,brain,40-50 USD
+Fifties,Other Indoor,leg,10-20 USD
+Fourties,Mechanical,leg,20-30 USD
+>60,Mechanical,back,0-10 USD
+Fifties,Mechanical,back,40-50 USD
+Fifties,Other Indoor,chest & lungs,10-20 USD
+Fourties,Mechanical,hand,20-30 USD
+Fifties,Other Indoor,hand,20-30 USD
+>60,Mechanical,back,40-50 USD
+Fifties,transportation,back,30-40 USD
+Fourties,construction,leg,20-30 USD
+Fifties,Physical,brain,20-30 USD
+Fifties,Physical,back,40-50 USD
+Thirties,transportation,hand,10-20 USD
+>60,Mechanical,hand,50-100 USD
+>60,Other Indoor,hand,20-30 USD
+Fourties,Other Indoor,hand,10-20 USD
+Fifties,transportation,hand,30-40 USD
+Thirties,Desk_Job,back,20-30 USD
+Twenties,transportation,head & neck,10-20 USD
+Fourties,transportation,back,10-20 USD
+Fourties,Other Indoor,untagged,20-30 USD
+Thirties,Physical,head & neck,10-20 USD
+Twenties,Mechanical,untagged,20-30 USD
+>60,Mechanical,brain,10-20 USD
+Fourties,construction,hand,20-30 USD
+Fifties,white_collar,leg,10-20 USD
+>60,Mechanical,back,30-40 USD
+Fourties,Other Outdoor,back,>100 USD
+>60,white_collar,head & neck,30-40 USD
+Thirties,white_collar,head & neck,10-20 USD
+Fifties,Physical,head & neck,10-20 USD
+Thirties,Desk_Job,head & neck,10-20 USD
+Fifties,Other Indoor,back,20-30 USD
+Fourties,Other Indoor,back,20-30 USD
+>60,construction,back,>100 USD
+Fifties,white_collar,hand,50-100 USD
+Fifties,Physical,leg,40-50 USD
+>60,construction,head & neck,50-100 USD
+Fifties,transportation,leg,10-20 USD
+Thirties,Desk_Job,hand,10-20 USD
+Thirties,Other Indoor,back,10-20 USD
+Fourties,transportation,hand,20-30 USD
+Fifties,transportation,leg,20-30 USD
+Fourties,transportation,hernia,10-20 USD
+Twenties,Desk_Job,leg,10-20 USD
+Thirties,white_collar,brain,>100 USD
+Fifties,Physical,back,40-50 USD
+Fifties,white_collar,back,10-20 USD
+Fifties,white_collar,back,20-30 USD
+Thirties,Other Indoor,head & neck,30-40 USD
+>60,Physical,hand,40-50 USD
+Fifties,white_collar,head & neck,30-40 USD
+Fifties,white_collar,head & neck,10-20 USD
+Fourties,white_collar,untagged,30-40 USD
+Fourties,Desk_Job,head & neck,30-40 USD
+Fourties,white_collar,head & neck,30-40 USD
+Twenties,white_collar,leg,10-20 USD
+Fourties,white_collar,leg,20-30 USD
+Fourties,home/restaurant,back,40-50 USD
+Thirties,Other Indoor,head & neck,30-40 USD
+Fifties,white_collar,head & neck,40-50 USD
+Thirties,Other Indoor,brain,>100 USD
+Thirties,white_collar,hand,40-50 USD
+>60,white_collar,hand,50-100 USD
+Thirties,Other Indoor,back,30-40 USD
+>60,white_collar,back,50-100 USD
+Thirties,Other Indoor,brain,30-40 USD
+Fourties,white_collar,untagged,30-40 USD
+>60,white_collar,hand,40-50 USD
+Fifties,Other Indoor,hand,30-40 USD
+Fourties,Other Indoor,hand,20-30 USD
+Thirties,Other Indoor,brain,30-40 USD
+Fourties,white_collar,hand,40-50 USD
+Fourties,white_collar,head & neck,30-40 USD
+Thirties,Other Indoor,hand,20-30 USD
+Fourties,Other Outdoor,leg,30-40 USD
+Thirties,Mechanical,hand,10-20 USD
+Fourties,home/restaurant,hand,10-20 USD
+Thirties,transportation,leg,10-20 USD
+Fifties,Mechanical,chest & lungs,10-20 USD
+Thirties,Other Indoor,stomach,10-20 USD
+>60,white_collar,back,10-20 USD
+>60,home/restaurant,leg,10-20 USD
+Fifties,home/restaurant,back,40-50 USD
+Twenties,Other Indoor,head & neck,10-20 USD
+Fifties,transportation,back,20-30 USD
+Thirties,Other Indoor,untagged,0-10 USD
+Fifties,Other Indoor,back,10-20 USD
+Fifties,Desk_Job,head & neck,30-40 USD
+Fourties,home/restaurant,back,10-20 USD
+Thirties,construction,head & neck,10-20 USD
+Thirties,Other Indoor,back,0-10 USD
+Thirties,white_collar,hand,10-20 USD
+Fifties,Physical,hand,10-20 USD
+Twenties,transportation,leg,10-20 USD
+>60,Other Indoor,hand,30-40 USD
+Fourties,Physical,untagged,10-20 USD
+>60,Other Outdoor,leg,10-20 USD
+Twenties,Mechanical,back,0-10 USD
+Fourties,home/restaurant,back,20-30 USD
+Twenties,transportation,head & neck,10-20 USD
+>60,white_collar,hand,10-20 USD
+Twenties,Mechanical,head & neck,10-20 USD
+Thirties,Desk_Job,hand,10-20 USD
+Twenties,Other Indoor,head & neck,>100 USD
+Fourties,white_collar,back,>100 USD
+Fourties,white_collar,brain,10-20 USD
+Twenties,Mechanical,head & neck,10-20 USD
+Thirties,Other Indoor,back,10-20 USD
+Twenties,transportation,hand,10-20 USD
+Fourties,Desk_Job,head & neck,0-10 USD
+>60,Mechanical,hand,10-20 USD
+>60,Mechanical,hand,20-30 USD
+Twenties,Other Indoor,back,0-10 USD
+Fourties,Other Indoor,leg,10-20 USD
+Thirties,white_collar,hand,0-10 USD
+Twenties,white_collar,hand,10-20 USD
+Thirties,transportation,hand,10-20 USD
+Fourties,Physical,head & neck,10-20 USD
+Thirties,Mechanical,leg,10-20 USD
+Twenties,Physical,head & neck,>100 USD
+Twenties,Other Outdoor,leg,10-20 USD
+>60,white_collar,head & neck,10-20 USD
+Twenties,transportation,head & neck,20-30 USD
+0-20,Desk_Job,leg,0-10 USD
+Thirties,transportation,hand,20-30 USD
+Thirties,transportation,leg,10-20 USD
+Fifties,home/restaurant,leg,20-30 USD
+Fifties,Other Indoor,head & neck,10-20 USD
+Fifties,Other Indoor,hernia,10-20 USD
+Fifties,Other Indoor,hernia,20-30 USD
+Fourties,Physical,back,20-30 USD
+Twenties,Other Indoor,head & neck,10-20 USD
+Thirties,Other Indoor,hand,0-10 USD
+Fifties,Desk_Job,back,0-10 USD
+Fifties,Physical,leg,20-30 USD
+Thirties,transportation,head & neck,10-20 USD
+Fourties,transportation,back,10-20 USD
+Twenties,Physical,back,10-20 USD
+Twenties,white_collar,back,10-20 USD
+Twenties,white_collar,back,10-20 USD
+Twenties,home/restaurant,hernia,10-20 USD
+Fourties,Mechanical,untagged,0-10 USD
+Fifties,Physical,back,10-20 USD
+Fifties,white_collar,untagged,30-40 USD
+0-20,Desk_Job,head & neck,10-20 USD
+Fifties,Physical,hand,20-30 USD
+Fourties,transportation,hand,10-20 USD
+Fourties,transportation,leg,>100 USD
+Thirties,Other Indoor,leg,10-20 USD
+Twenties,Other Indoor,hand,10-20 USD
+Twenties,Other Indoor,hand,10-20 USD
+Thirties,Physical,leg,0-10 USD
+Thirties,construction,brain,10-20 USD
+Twenties,Other Indoor,hand,10-20 USD
+Fifties,Mechanical,chest & lungs,10-20 USD
+Fourties,Other Indoor,brain,>100 USD
+Fourties,Other Outdoor,back,10-20 USD
+Thirties,Mechanical,head & neck,10-20 USD
+Fourties,Physical,back,0-10 USD
+Fifties,Physical,back,10-20 USD
+Thirties,Physical,back,10-20 USD
+Twenties,transportation,hand,10-20 USD
+Fourties,Physical,head & neck,0-10 USD
+Fourties,Other Indoor,back,10-20 USD
+Fifties,Desk_Job,hand,10-20 USD
+Fifties,Physical,hand,10-20 USD
+>60,transportation,brain,>100 USD
+0-20,Mechanical,back,10-20 USD
+Twenties,Other Outdoor,back,10-20 USD
+Twenties,Physical,hand,>100 USD
+Fourties,transportation,back,10-20 USD
+0-20,transportation,leg,10-20 USD
+Thirties,Other Indoor,leg,10-20 USD
+Twenties,Desk_Job,back,0-10 USD
+Fifties,Physical,hand,30-40 USD
+Twenties,Other Indoor,head & neck,0-10 USD
+Fifties,transportation,head & neck,10-20 USD
+Thirties,Physical,leg,10-20 USD
+Fourties,Physical,leg,10-20 USD
+Thirties,Physical,hand,10-20 USD
+Fourties,Physical,untagged,0-10 USD
+Twenties,transportation,back,40-50 USD
+Fourties,Other Indoor,leg,10-20 USD
+0-20,transportation,head & neck,0-10 USD
+Fourties,home/restaurant,hand,10-20 USD
+Fourties,home/restaurant,back,10-20 USD
+Fourties,transportation,back,20-30 USD
+Thirties,Other Indoor,untagged,10-20 USD
+Thirties,Other Indoor,hand,20-30 USD
+Fourties,home/restaurant,hand,20-30 USD
+>60,Other Indoor,hand,>100 USD
+Fourties,Other Indoor,back,0-10 USD
+Fourties,Other Indoor,chest & lungs,0-10 USD
+Fifties,transportation,hand,0-10 USD
+0-20,Other Outdoor,leg,10-20 USD
+>60,home/restaurant,leg,20-30 USD
+Fifties,Mechanical,leg,20-30 USD
+Fourties,Physical,leg,10-20 USD
+Twenties,Desk_Job,back,10-20 USD
+Fifties,transportation,hand,10-20 USD
+Fourties,white_collar,back,10-20 USD
+Fifties,transportation,back,0-10 USD
+Fifties,Other Indoor,hand,10-20 USD
+Thirties,Other Indoor,head & neck,10-20 USD
+0-20,Mechanical,head & neck,10-20 USD
+Fourties,transportation,leg,10-20 USD
+>60,home/restaurant,head & neck,30-40 USD
+Thirties,Mechanical,hand,10-20 USD
+Fourties,Other Indoor,back,20-30 USD
+Thirties,Mechanical,leg,0-10 USD
+Fifties,Other Outdoor,untagged,0-10 USD
+Fifties,home/restaurant,leg,10-20 USD
+>60,Other Indoor,hand,10-20 USD
+Fifties,transportation,head & neck,20-30 USD
+Thirties,Other Indoor,head & neck,10-20 USD
+Fourties,Mechanical,leg,10-20 USD
+Thirties,Other Indoor,hand,20-30 USD
+Twenties,Mechanical,back,10-20 USD
+Thirties,transportation,stomach,10-20 USD
+Twenties,Other Outdoor,hernia,20-30 USD
+Fifties,Other Indoor,back,20-30 USD
+Fourties,Other Indoor,brain,10-20 USD
+Fifties,Mechanical,back,10-20 USD
+Fourties,transportation,hand,10-20 USD
+Thirties,Other Outdoor,brain,10-20 USD
+Fourties,Desk_Job,hand,10-20 USD
+Twenties,Physical,chest & lungs,10-20 USD
+Fifties,transportation,back,0-10 USD
+Thirties,Physical,back,20-30 USD
+Twenties,transportation,leg,10-20 USD
+Fifties,Other Indoor,hand,10-20 USD
+Fifties,Physical,hand,10-20 USD
+>60,Other Indoor,leg,10-20 USD
+Thirties,Mechanical,leg,10-20 USD
+Fifties,Other Indoor,leg,10-20 USD
+Thirties,Other Indoor,leg,10-20 USD
+>60,Mechanical,leg,30-40 USD
+Thirties,Physical,head & neck,0-10 USD
+Fourties,Other Outdoor,back,10-20 USD
+Thirties,transportation,brain,10-20 USD
+0-20,Physical,back,>100 USD
+Fourties,home/restaurant,leg,10-20 USD
+0-20,Physical,back,0-10 USD
+Fifties,white_collar,leg,10-20 USD
+>60,Mechanical,leg,10-20 USD
+Twenties,home/restaurant,head & neck,10-20 USD
+Thirties,home/restaurant,head & neck,10-20 USD
+Fourties,Mechanical,hernia,20-30 USD
+Fifties,Desk_Job,head & neck,20-30 USD
+Twenties,white_collar,untagged,10-20 USD
+Thirties,Other Indoor,back,0-10 USD
+Fourties,Other Indoor,leg,0-10 USD
+Fourties,home/restaurant,leg,10-20 USD
+Fourties,Physical,head & neck,20-30 USD
+Twenties,transportation,back,10-20 USD
+Fifties,Mechanical,back,20-30 USD
+Fifties,transportation,hand,20-30 USD
+Fifties,Mechanical,back,0-10 USD
+Fourties,home/restaurant,back,10-20 USD
+Fifties,home/restaurant,back,20-30 USD
+Twenties,construction,back,20-30 USD
+Thirties,Desk_Job,back,10-20 USD
+Fifties,Mechanical,back,20-30 USD
+Fourties,transportation,chest & lungs,10-20 USD
+Thirties,Other Indoor,head & neck,10-20 USD
+Fourties,Desk_Job,leg,10-20 USD
+Twenties,Desk_Job,leg,0-10 USD
+Thirties,Physical,hand,10-20 USD
+Thirties,transportation,hand,10-20 USD
+Fifties,Other Indoor,chest & lungs,10-20 USD
+Twenties,Other Indoor,hand,10-20 USD
+Fourties,Desk_Job,head & neck,10-20 USD
+Fourties,transportation,chest & lungs,20-30 USD
+Fourties,transportation,back,10-20 USD
+Fourties,Physical,hand,30-40 USD
+Twenties,Other Indoor,back,0-10 USD
+Twenties,Other Indoor,back,10-20 USD
+Fourties,Desk_Job,untagged,0-10 USD
+Twenties,Other Indoor,head & neck,10-20 USD
+Fifties,home/restaurant,leg,10-20 USD
+Thirties,Other Indoor,leg,0-10 USD
+Fifties,construction,leg,10-20 USD
+Fourties,Physical,leg,10-20 USD
+Fourties,Other Indoor,hand,10-20 USD
+Thirties,Other Outdoor,hand,10-20 USD
+Fourties,Physical,hand,10-20 USD
+Thirties,Mechanical,untagged,0-10 USD
+Fourties,white_collar,head & neck,10-20 USD
+Thirties,home/restaurant,hand,10-20 USD
+Thirties,home/restaurant,hand,10-20 USD
+Twenties,Physical,leg,10-20 USD
+Fourties,transportation,head & neck,0-10 USD
+Thirties,white_collar,hand,10-20 USD
+>60,transportation,head & neck,20-30 USD
+Thirties,Other Indoor,hand,10-20 USD
+Fifties,Physical,head & neck,10-20 USD
+Thirties,Other Indoor,leg,10-20 USD
+Thirties,Mechanical,leg,20-30 USD
+Fourties,Other Indoor,back,20-30 USD
+Fifties,construction,leg,10-20 USD
+Twenties,transportation,leg,20-30 USD
+Fifties,transportation,back,20-30 USD
+Fourties,Mechanical,untagged,10-20 USD
+Fifties,transportation,back,20-30 USD
+>60,transportation,hand,10-20 USD
+Thirties,white_collar,untagged,10-20 USD
+Twenties,home/restaurant,hand,10-20 USD
+Fifties,Other Outdoor,back,20-30 USD
+Thirties,Mechanical,back,10-20 USD
+Fourties,Mechanical,hand,>100 USD
+Thirties,Physical,back,10-20 USD
+Twenties,Desk_Job,untagged,10-20 USD
+Thirties,home/restaurant,head & neck,20-30 USD
+Fourties,Physical,head & neck,0-10 USD
+Twenties,Other Indoor,hand,10-20 USD
+Thirties,transportation,hernia,10-20 USD
+Twenties,Other Indoor,back,10-20 USD
+Fourties,Other Indoor,leg,10-20 USD
+Fifties,transportation,head & neck,10-20 USD
+Fourties,Other Outdoor,head & neck,20-30 USD
+Thirties,Mechanical,brain,0-10 USD
+Twenties,transportation,head & neck,0-10 USD
+Fourties,transportation,leg,10-20 USD
+Twenties,transportation,back,0-10 USD
+Twenties,Other Indoor,hand,10-20 USD
+>60,transportation,head & neck,10-20 USD
+Fourties,Physical,back,0-10 USD
+Thirties,transportation,leg,20-30 USD
+>60,transportation,leg,30-40 USD
+Fourties,transportation,brain,10-20 USD
+>60,Mechanical,hand,20-30 USD
+Fifties,Other Indoor,leg,10-20 USD
+Twenties,Physical,back,10-20 USD
+Twenties,home/restaurant,back,0-10 USD
+Fifties,Other Indoor,head & neck,10-20 USD
+Thirties,Mechanical,leg,0-10 USD
+Fourties,Physical,leg,20-30 USD
+Thirties,transportation,head & neck,10-20 USD
+Fifties,transportation,head & neck,10-20 USD
+Fifties,Other Indoor,back,10-20 USD
+Twenties,Desk_Job,head & neck,10-20 USD
+Fifties,Other Indoor,back,0-10 USD
+Thirties,white_collar,leg,>100 USD
+Thirties,white_collar,back,0-10 USD
+Fifties,Mechanical,leg,>100 USD
+Twenties,Physical,leg,20-30 USD
+Twenties,Physical,back,10-20 USD
+Twenties,Other Indoor,hand,10-20 USD
+0-20,Mechanical,hand,0-10 USD
+Twenties,Other Indoor,untagged,10-20 USD
+Twenties,Other Indoor,hand,10-20 USD
+Fifties,Mechanical,leg,10-20 USD
+Thirties,Other Indoor,head & neck,20-30 USD
+Thirties,construction,hand,0-10 USD
+Fifties,Mechanical,hand,10-20 USD
+Fourties,Other Outdoor,back,10-20 USD
+Thirties,white_collar,hand,10-20 USD
+>60,Other Indoor,hand,10-20 USD
+Twenties,Other Indoor,leg,0-10 USD
+Fifties,Desk_Job,hand,20-30 USD
+Twenties,construction,head & neck,0-10 USD
+Twenties,Other Indoor,hand,10-20 USD
+Fifties,Desk_Job,back,10-20 USD
+Fifties,Other Indoor,chest & lungs,0-10 USD
+Thirties,transportation,stomach,0-10 USD
+Thirties,Physical,leg,10-20 USD
+>60,transportation,back,10-20 USD
+Thirties,transportation,leg,10-20 USD
+Fourties,Physical,brain,50-100 USD
+>60,Other Indoor,back,20-30 USD
+Thirties,Physical,back,10-20 USD
+Thirties,construction,leg,>100 USD
+Twenties,Mechanical,leg,10-20 USD
+Fifties,Other Indoor,back,20-30 USD
+Fourties,Other Indoor,hand,10-20 USD
+Fifties,Mechanical,back,>100 USD
+Fifties,Desk_Job,head & neck,10-20 USD
+Fourties,Desk_Job,untagged,0-10 USD
+Fourties,Desk_Job,hand,0-10 USD
+>60,Mechanical,hand,0-10 USD
+Thirties,Desk_Job,untagged,10-20 USD
+Twenties,transportation,head & neck,0-10 USD
+Thirties,white_collar,back,10-20 USD
+Thirties,Desk_Job,leg,20-30 USD
+Fifties,Other Outdoor,back,10-20 USD
+Fifties,Other Outdoor,back,20-30 USD
+Fifties,Other Indoor,back,20-30 USD
+Twenties,home/restaurant,head & neck,0-10 USD
+Fifties,home/restaurant,leg,20-30 USD
+0-20,Other Indoor,head & neck,10-20 USD
+Twenties,transportation,leg,10-20 USD
+Fifties,Physical,leg,20-30 USD
+0-20,Physical,head & neck,10-20 USD
+Fifties,Other Indoor,head & neck,20-30 USD
+Twenties,Other Indoor,back,10-20 USD
+Twenties,Mechanical,leg,10-20 USD
+Fourties,transportation,hand,0-10 USD
+Fifties,white_collar,untagged,10-20 USD
+Fifties,home/restaurant,head & neck,10-20 USD
+Thirties,Physical,leg,10-20 USD
+Fourties,Other Outdoor,untagged,10-20 USD
+Fifties,white_collar,back,10-20 USD
+Fifties,transportation,hand,10-20 USD
+Thirties,Physical,leg,0-10 USD
+Twenties,Other Indoor,hand,10-20 USD
+Twenties,Desk_Job,head & neck,20-30 USD
+Fourties,Other Indoor,back,10-20 USD
+Thirties,transportation,stomach,10-20 USD
+Thirties,Other Indoor,head & neck,10-20 USD
+Twenties,Physical,untagged,10-20 USD
+Thirties,Mechanical,back,10-20 USD
+Twenties,construction,back,20-30 USD
+Fifties,Desk_Job,back,10-20 USD
+Fourties,Physical,back,0-10 USD
+Twenties,transportation,head & neck,0-10 USD
+Thirties,home/restaurant,leg,10-20 USD
+Thirties,white_collar,untagged,0-10 USD
+>60,Desk_Job,head & neck,20-30 USD
+>60,white_collar,back,30-40 USD
+Fourties,transportation,back,>100 USD
+Fourties,white_collar,untagged,10-20 USD
+Fourties,transportation,brain,10-20 USD
+Thirties,Other Indoor,back,10-20 USD
+Thirties,transportation,hand,>100 USD
+Twenties,transportation,back,0-10 USD
+Twenties,Other Indoor,back,10-20 USD
+Fourties,Desk_Job,untagged,10-20 USD
+Thirties,white_collar,head & neck,10-20 USD
+Fourties,home/restaurant,brain,0-10 USD
+Fifties,home/restaurant,brain,10-20 USD
+Thirties,Desk_Job,back,10-20 USD
+Twenties,transportation,chest & lungs,10-20 USD
+Thirties,Other Indoor,leg,>100 USD
+Twenties,transportation,chest & lungs,0-10 USD
+>60,Other Indoor,back,0-10 USD
+Thirties,Desk_Job,head & neck,10-20 USD
+Fifties,Other Outdoor,head & neck,0-10 USD
+Fifties,Other Indoor,hand,10-20 USD
+Fifties,Other Indoor,chest & lungs,10-20 USD
+Thirties,transportation,head & neck,10-20 USD
+Thirties,Mechanical,back,10-20 USD
+Thirties,Mechanical,hand,20-30 USD
+Thirties,Mechanical,back,0-10 USD
+Fourties,white_collar,leg,10-20 USD
+Twenties,Mechanical,back,10-20 USD
+Thirties,white_collar,hand,10-20 USD
+Thirties,Desk_Job,back,0-10 USD
+Fifties,white_collar,back,10-20 USD
+Twenties,Other Indoor,head & neck,0-10 USD
+Thirties,Other Indoor,back,20-30 USD
+Fifties,Physical,brain,10-20 USD
+Twenties,Mechanical,back,10-20 USD
+Fifties,Physical,head & neck,10-20 USD
+Thirties,transportation,head & neck,10-20 USD
+Thirties,Physical,leg,20-30 USD
+>60,Desk_Job,head & neck,10-20 USD
+Fourties,Desk_Job,head & neck,20-30 USD
+Twenties,Mechanical,hernia,20-30 USD
+Fourties,construction,back,0-10 USD
+Twenties,Mechanical,leg,0-10 USD
+Fifties,white_collar,back,0-10 USD
+>60,Physical,untagged,10-20 USD
+>60,home/restaurant,leg,40-50 USD
+Twenties,home/restaurant,hand,10-20 USD
+Fourties,home/restaurant,leg,10-20 USD
+Thirties,home/restaurant,hand,10-20 USD
+Fifties,white_collar,leg,10-20 USD
+Twenties,Desk_Job,leg,10-20 USD
+Twenties,Other Indoor,hand,0-10 USD
+Twenties,Mechanical,leg,10-20 USD
+Thirties,Physical,back,10-20 USD
+Fifties,Physical,leg,0-10 USD
+0-20,Mechanical,back,10-20 USD
+Thirties,Desk_Job,leg,0-10 USD
+Thirties,Mechanical,head & neck,0-10 USD
+Thirties,Mechanical,hernia,0-10 USD
+Thirties,Desk_Job,leg,10-20 USD
+Thirties,transportation,leg,10-20 USD
+Fifties,Desk_Job,back,10-20 USD
+Thirties,Mechanical,back,10-20 USD
+Fourties,Other Indoor,hand,0-10 USD
+Thirties,Physical,hand,20-30 USD
+Fifties,Other Indoor,untagged,30-40 USD
+Fourties,Other Outdoor,leg,>100 USD
+Fifties,white_collar,brain,10-20 USD
+Thirties,construction,back,10-20 USD
+Twenties,Mechanical,back,10-20 USD
+Twenties,Physical,leg,0-10 USD
+Fourties,Other Outdoor,head & neck,10-20 USD
+Fifties,transportation,chest & lungs,10-20 USD
+Twenties,Other Indoor,brain,10-20 USD
+Twenties,white_collar,head & neck,10-20 USD
+Fourties,transportation,untagged,20-30 USD
+Fourties,Desk_Job,hand,20-30 USD
+Fourties,Other Indoor,back,10-20 USD
+Twenties,white_collar,leg,10-20 USD
+>60,Other Indoor,hand,10-20 USD
+Fifties,Other Outdoor,leg,10-20 USD
+Fifties,white_collar,untagged,0-10 USD
+Twenties,Mechanical,chest & lungs,10-20 USD
+Fourties,transportation,brain,10-20 USD
+Thirties,Mechanical,hand,10-20 USD
+Fifties,Mechanical,brain,10-20 USD
+Thirties,Other Indoor,back,10-20 USD
+0-20,Mechanical,hand,20-30 USD
+Fourties,Mechanical,back,10-20 USD
+Fifties,transportation,leg,0-10 USD
+Fourties,home/restaurant,brain,0-10 USD
+Twenties,Physical,head & neck,10-20 USD
+Thirties,Desk_Job,leg,10-20 USD
+Fifties,Desk_Job,untagged,20-30 USD
+Fifties,Other Indoor,hand,0-10 USD
+Fifties,Other Indoor,hand,10-20 USD
+>60,Other Indoor,hand,20-30 USD
+>60,Other Indoor,leg,20-30 USD
+>60,Other Indoor,head & neck,0-10 USD
+Twenties,Mechanical,leg,10-20 USD
+Fourties,Other Indoor,head & neck,20-30 USD
+Fourties,home/restaurant,head & neck,10-20 USD
+Twenties,Other Indoor,leg,10-20 USD
+Twenties,construction,head & neck,0-10 USD
+>60,transportation,back,30-40 USD
+Thirties,Desk_Job,leg,10-20 USD
+>60,Desk_Job,hand,30-40 USD
+Twenties,transportation,back,10-20 USD
+Thirties,Mechanical,hand,10-20 USD
+Thirties,white_collar,hernia,10-20 USD
+Fifties,construction,untagged,0-10 USD
+Thirties,Other Indoor,leg,10-20 USD
+Thirties,white_collar,leg,20-30 USD
+Twenties,Desk_Job,chest & lungs,10-20 USD
+Thirties,Mechanical,leg,10-20 USD
+Fifties,home/restaurant,untagged,0-10 USD
+Fourties,home/restaurant,hand,10-20 USD
+Thirties,white_collar,untagged,10-20 USD
+>60,transportation,head & neck,30-40 USD
+Fourties,Other Indoor,hand,20-30 USD
+Twenties,Other Indoor,back,0-10 USD
+Thirties,Other Indoor,back,10-20 USD
+Thirties,transportation,head & neck,10-20 USD
+>60,Other Indoor,untagged,20-30 USD
+Fourties,Other Indoor,back,0-10 USD
+Thirties,transportation,back,10-20 USD
+Fifties,Other Indoor,chest & lungs,10-20 USD
+Twenties,transportation,hand,0-10 USD
+Fourties,home/restaurant,chest & lungs,20-30 USD
+>60,white_collar,back,20-30 USD
+>60,transportation,leg,10-20 USD
+Fourties,white_collar,back,10-20 USD
+Thirties,home/restaurant,back,20-30 USD
+Fourties,Other Outdoor,hand,10-20 USD
+Fourties,Mechanical,hand,10-20 USD
+>60,white_collar,leg,10-20 USD
+Twenties,Other Indoor,head & neck,10-20 USD
+Twenties,white_collar,leg,10-20 USD
+Fifties,Physical,head & neck,10-20 USD
+>60,Desk_Job,back,20-30 USD
+Thirties,Other Indoor,head & neck,10-20 USD
+>60,Mechanical,hand,0-10 USD
+Fifties,transportation,head & neck,10-20 USD
+Thirties,transportation,brain,10-20 USD
+Fifties,Other Indoor,hand,10-20 USD
+Fourties,Other Indoor,leg,10-20 USD
+Fourties,Other Indoor,back,10-20 USD
+Twenties,Other Indoor,back,10-20 USD
+Thirties,Other Indoor,hand,10-20 USD
+Fifties,Other Indoor,back,20-30 USD
+Thirties,Other Indoor,head & neck,0-10 USD
+Thirties,Other Indoor,back,10-20 USD
+Fifties,Other Indoor,brain,40-50 USD
+Fifties,white_collar,back,>100 USD
+Fourties,Mechanical,head & neck,10-20 USD
+Twenties,Desk_Job,head & neck,10-20 USD
+Fifties,Mechanical,hand,10-20 USD
+Thirties,home/restaurant,head & neck,30-40 USD
+0-20,Other Indoor,leg,10-20 USD
+Fourties,Other Indoor,hernia,40-50 USD
+Twenties,Other Indoor,hand,10-20 USD
+Fifties,white_collar,back,10-20 USD
+Fifties,Mechanical,head & neck,10-20 USD
+Twenties,transportation,back,10-20 USD
+Fifties,home/restaurant,back,0-10 USD
+Fourties,construction,hand,10-20 USD
+Fourties,transportation,head & neck,10-20 USD
+Fifties,Other Indoor,leg,10-20 USD
+Fourties,Other Indoor,back,10-20 USD
+Twenties,Desk_Job,hand,10-20 USD
+Fourties,Mechanical,hand,>100 USD
+Thirties,Other Indoor,back,10-20 USD
+Fifties,Other Indoor,head & neck,10-20 USD
+>60,Other Indoor,head & neck,10-20 USD
+>60,Other Indoor,head & neck,10-20 USD
+Twenties,Other Outdoor,head & neck,10-20 USD
+Thirties,Desk_Job,leg,20-30 USD
+>60,Desk_Job,head & neck,0-10 USD
+>60,Mechanical,hand,10-20 USD
+Fourties,Other Outdoor,leg,20-30 USD
+>60,Desk_Job,back,10-20 USD
+Fourties,Physical,hand,10-20 USD
+Thirties,Other Indoor,hand,10-20 USD
+Thirties,white_collar,head & neck,10-20 USD
+Fourties,Other Indoor,back,30-40 USD
+Thirties,Other Indoor,back,10-20 USD
+Thirties,Mechanical,hand,10-20 USD
+Thirties,Other Indoor,back,0-10 USD
+>60,home/restaurant,hand,10-20 USD
+Fifties,Desk_Job,untagged,0-10 USD
+Twenties,Other Indoor,hand,10-20 USD
+Fifties,Other Outdoor,hand,0-10 USD
+Twenties,transportation,chest & lungs,10-20 USD
+Twenties,Desk_Job,brain,20-30 USD
+Thirties,white_collar,back,10-20 USD
+Twenties,Physical,head & neck,0-10 USD
+Fifties,transportation,head & neck,10-20 USD
+Fourties,transportation,hand,10-20 USD
+Twenties,Desk_Job,untagged,10-20 USD
+Twenties,Other Indoor,back,10-20 USD
+Twenties,Other Indoor,untagged,0-10 USD
+Thirties,Other Indoor,back,0-10 USD
+Twenties,Other Indoor,untagged,10-20 USD
+Twenties,Other Outdoor,hand,10-20 USD
+0-20,transportation,head & neck,10-20 USD
+Thirties,Other Indoor,back,10-20 USD
+Fifties,Physical,back,10-20 USD
+Twenties,Other Outdoor,hand,10-20 USD
+Fifties,Other Indoor,leg,10-20 USD
+Fourties,Desk_Job,back,10-20 USD
+0-20,home/restaurant,head & neck,>100 USD
+>60,transportation,hand,10-20 USD
+Fifties,Other Indoor,untagged,>100 USD
+Fifties,transportation,leg,10-20 USD
+>60,Other Indoor,head & neck,10-20 USD
+Thirties,Physical,back,10-20 USD
+Thirties,Physical,back,10-20 USD
+Fifties,Other Indoor,back,10-20 USD
+0-20,Mechanical,hand,10-20 USD
+Fifties,Other Indoor,hand,10-20 USD
+Fifties,Physical,untagged,10-20 USD
+Twenties,Physical,leg,20-30 USD
+Fourties,Other Indoor,head & neck,10-20 USD
+Twenties,Other Indoor,chest & lungs,0-10 USD
+Fourties,Other Indoor,untagged,10-20 USD
+Fourties,Other Indoor,back,0-10 USD
+Thirties,Physical,head & neck,10-20 USD
+Fifties,Desk_Job,leg,30-40 USD
+Twenties,Other Indoor,back,10-20 USD
+Twenties,transportation,back,10-20 USD
+Twenties,Other Indoor,leg,10-20 USD
+Fourties,transportation,head & neck,10-20 USD
+Twenties,Mechanical,hand,10-20 USD
+Fifties,Physical,hand,10-20 USD
+Fifties,Other Indoor,untagged,10-20 USD
+Fourties,Desk_Job,untagged,20-30 USD
+>60,home/restaurant,head & neck,10-20 USD
+Thirties,Mechanical,leg,10-20 USD
+Thirties,Other Indoor,leg,10-20 USD
+Fourties,Other Indoor,head & neck,10-20 USD
+Twenties,Other Outdoor,untagged,0-10 USD
+0-20,Other Indoor,hand,10-20 USD
+Fourties,Physical,back,10-20 USD
+Thirties,Desk_Job,hand,10-20 USD
+Twenties,Physical,chest & lungs,10-20 USD
+Twenties,Desk_Job,untagged,10-20 USD
+Twenties,Desk_Job,untagged,10-20 USD
+>60,Desk_Job,untagged,10-20 USD
+>60,Other Outdoor,back,10-20 USD
+Fifties,Desk_Job,back,0-10 USD
+0-20,Physical,brain,0-10 USD
+Thirties,Physical,leg,10-20 USD
+Twenties,Other Indoor,chest & lungs,10-20 USD
+Fifties,Other Indoor,brain,10-20 USD
+Fourties,white_collar,hand,20-30 USD
+Fifties,transportation,untagged,>100 USD
+Fourties,Desk_Job,head & neck,20-30 USD
+Fourties,Other Outdoor,hand,10-20 USD
+Thirties,Mechanical,back,10-20 USD
+Thirties,Physical,back,10-20 USD
+Thirties,Other Outdoor,leg,10-20 USD
+Fourties,Physical,leg,10-20 USD
+Thirties,transportation,back,10-20 USD
+Thirties,Other Indoor,leg,10-20 USD
+0-20,home/restaurant,leg,0-10 USD
+Fourties,Physical,head & neck,10-20 USD
+Thirties,Other Indoor,hand,10-20 USD
+Thirties,Other Indoor,hand,10-20 USD
+Thirties,Other Indoor,back,>100 USD
+Thirties,home/restaurant,hand,20-30 USD
+Twenties,Other Indoor,back,10-20 USD
+Fourties,Desk_Job,hand,10-20 USD
+Fourties,transportation,leg,0-10 USD
+Fourties,Other Indoor,back,10-20 USD
+Fourties,Mechanical,untagged,10-20 USD
+Fourties,Other Outdoor,chest & lungs,10-20 USD
+Twenties,white_collar,back,10-20 USD
+>60,home/restaurant,brain,>100 USD
+>60,Other Indoor,hand,0-10 USD
+Thirties,Other Indoor,leg,10-20 USD
+Twenties,Physical,chest & lungs,10-20 USD
+Fourties,Other Indoor,back,0-10 USD
+Twenties,Other Indoor,back,10-20 USD
+Thirties,Desk_Job,leg,10-20 USD
+Fifties,Other Indoor,hand,20-30 USD
+Fourties,Other Indoor,hand,20-30 USD
+Fifties,Other Indoor,hand,20-30 USD
+Thirties,white_collar,back,20-30 USD
+Fourties,white_collar,head & neck,10-20 USD
+Fourties,transportation,hand,10-20 USD
+Thirties,home/restaurant,hand,10-20 USD
+Fourties,home/restaurant,brain,20-30 USD
+Thirties,Mechanical,chest & lungs,10-20 USD
+Fifties,Other Indoor,hand,0-10 USD
+Fourties,Other Indoor,hand,20-30 USD
+Fourties,home/restaurant,chest & lungs,10-20 USD
+Fourties,Physical,hand,10-20 USD
+Thirties,transportation,hand,0-10 USD
+Fifties,Physical,head & neck,10-20 USD
+Fifties,Other Indoor,back,20-30 USD
+Twenties,Other Indoor,hand,10-20 USD
+Thirties,Mechanical,hand,10-20 USD
+Twenties,Physical,leg,10-20 USD
+Thirties,Physical,hand,10-20 USD
+Thirties,Physical,leg,10-20 USD
+Twenties,transportation,back,0-10 USD
+Thirties,home/restaurant,leg,10-20 USD
+Fourties,white_collar,hand,10-20 USD
+Fifties,Physical,chest & lungs,20-30 USD
+Fourties,transportation,back,0-10 USD
+>60,Mechanical,head & neck,>100 USD
+Fourties,home/restaurant,hand,20-30 USD
+Fifties,transportation,hand,10-20 USD
+Fourties,Physical,untagged,10-20 USD
+Fourties,Other Indoor,back,10-20 USD
+Fourties,white_collar,hand,10-20 USD
+Fourties,transportation,hand,10-20 USD
+Twenties,Physical,head & neck,0-10 USD
+Thirties,Other Indoor,back,>100 USD
+Fifties,Desk_Job,untagged,30-40 USD
+Twenties,white_collar,back,10-20 USD
+Thirties,transportation,brain,10-20 USD
+Fifties,transportation,chest & lungs,10-20 USD
+Fifties,white_collar,leg,0-10 USD
+Fifties,transportation,back,10-20 USD
+Twenties,transportation,back,10-20 USD
+Fifties,transportation,back,10-20 USD
+Thirties,white_collar,leg,10-20 USD
+Fifties,transportation,head & neck,10-20 USD
+Fifties,Other Outdoor,back,0-10 USD
+Fifties,Desk_Job,hand,20-30 USD
+Fifties,white_collar,untagged,10-20 USD
+Fourties,Mechanical,leg,10-20 USD
+Fourties,Desk_Job,head & neck,>100 USD
+Twenties,Physical,chest & lungs,10-20 USD
+Fifties,Other Outdoor,brain,10-20 USD
+Fourties,Mechanical,back,20-30 USD
+Thirties,construction,head & neck,0-10 USD
+0-20,Desk_Job,hand,10-20 USD
+Twenties,Other Indoor,leg,10-20 USD
+Thirties,white_collar,hand,10-20 USD
+0-20,transportation,hand,10-20 USD
+>60,Other Indoor,brain,10-20 USD
+0-20,Physical,leg,30-40 USD
+Fourties,Other Indoor,brain,10-20 USD
+Fourties,Mechanical,leg,0-10 USD
+Thirties,Physical,hand,10-20 USD
+Thirties,Other Indoor,back,10-20 USD
+Twenties,Other Indoor,head & neck,10-20 USD
+Thirties,Other Indoor,leg,10-20 USD
+Fourties,Mechanical,leg,10-20 USD
+Twenties,Other Indoor,chest & lungs,10-20 USD
+Thirties,Mechanical,back,10-20 USD
+Fourties,Desk_Job,head & neck,10-20 USD
+Thirties,Other Indoor,back,10-20 USD
+Thirties,white_collar,untagged,20-30 USD
+Fourties,Physical,back,10-20 USD
+Fourties,transportation,untagged,10-20 USD
+Fifties,Other Indoor,hand,20-30 USD
+Fifties,Physical,head & neck,10-20 USD
+Thirties,Other Indoor,leg,10-20 USD
+>60,Physical,back,0-10 USD
+>60,Desk_Job,hand,10-20 USD
+Twenties,Other Outdoor,head & neck,0-10 USD
+Fifties,Physical,back,30-40 USD
+Thirties,Physical,hand,10-20 USD
+Twenties,transportation,head & neck,10-20 USD
+Fourties,Physical,back,10-20 USD
+Fourties,Physical,back,20-30 USD
+>60,Physical,leg,20-30 USD
+Thirties,white_collar,back,50-100 USD
+Fourties,Mechanical,head & neck,20-30 USD
+>60,white_collar,back,10-20 USD
+Thirties,Other Indoor,head & neck,0-10 USD
+Fifties,Desk_Job,leg,10-20 USD
+Fourties,Physical,leg,10-20 USD
+Thirties,Other Indoor,back,0-10 USD
+Twenties,Other Indoor,head & neck,10-20 USD
+Twenties,transportation,head & neck,20-30 USD
+Twenties,Desk_Job,hand,0-10 USD
+Twenties,Other Indoor,hand,10-20 USD
+Fifties,Other Outdoor,back,10-20 USD
+Fifties,Physical,leg,10-20 USD
+Thirties,Other Indoor,leg,10-20 USD
+Fifties,construction,untagged,10-20 USD
+Fourties,Other Indoor,hand,10-20 USD
+Thirties,Physical,hand,20-30 USD
+Twenties,transportation,hand,0-10 USD
+>60,Physical,head & neck,20-30 USD
+Fourties,transportation,back,10-20 USD
+Fifties,Other Indoor,hand,20-30 USD
+Fifties,transportation,chest & lungs,20-30 USD
+Twenties,Mechanical,leg,10-20 USD
+Thirties,transportation,back,10-20 USD
+Fifties,transportation,head & neck,20-30 USD
+Fourties,Other Indoor,back,10-20 USD
+Fourties,Mechanical,untagged,10-20 USD
+Twenties,Physical,hand,>100 USD
+Fifties,transportation,head & neck,10-20 USD
+Fourties,Mechanical,head & neck,20-30 USD
+Fifties,Physical,hand,>100 USD
+Fifties,Physical,chest & lungs,10-20 USD
+Thirties,home/restaurant,hand,10-20 USD
+>60,white_collar,back,0-10 USD
+Fourties,Physical,brain,20-30 USD
+Fourties,Mechanical,leg,10-20 USD
+Fifties,Desk_Job,back,20-30 USD
+Fourties,Other Indoor,head & neck,20-30 USD
+Fourties,Other Indoor,hand,20-30 USD
+Fourties,Mechanical,head & neck,10-20 USD
+>60,Mechanical,back,10-20 USD
+>60,Other Outdoor,leg,10-20 USD
+Thirties,Other Outdoor,head & neck,10-20 USD
+Thirties,Other Indoor,leg,10-20 USD
+Thirties,Other Indoor,hand,0-10 USD
+Thirties,Other Indoor,head & neck,10-20 USD
+Fourties,Other Indoor,stomach,>100 USD
+>60,white_collar,chest & lungs,10-20 USD
+>60,Other Indoor,hand,10-20 USD
+Twenties,Desk_Job,back,20-30 USD
+Twenties,transportation,head & neck,10-20 USD
+Fifties,Mechanical,hand,10-20 USD
+>60,white_collar,hand,20-30 USD
+Fourties,transportation,hand,50-100 USD
+Twenties,Other Indoor,hand,0-10 USD
+Thirties,Other Indoor,leg,20-30 USD
+>60,Mechanical,back,0-10 USD
+Thirties,Mechanical,back,10-20 USD
+Fourties,Physical,untagged,10-20 USD
+Fourties,Other Outdoor,leg,0-10 USD
+Fourties,white_collar,hand,20-30 USD
+Fourties,Desk_Job,brain,10-20 USD
+Fifties,Mechanical,chest & lungs,20-30 USD
+Fifties,transportation,leg,20-30 USD
+Fifties,Other Outdoor,back,30-40 USD
+Thirties,transportation,back,10-20 USD
+Thirties,white_collar,back,10-20 USD
+Fourties,white_collar,untagged,0-10 USD
+Fifties,white_collar,back,10-20 USD
+Twenties,Physical,brain,0-10 USD
+Thirties,white_collar,head & neck,0-10 USD
+Fourties,Desk_Job,back,20-30 USD
+Fifties,Other Outdoor,back,10-20 USD
+Thirties,transportation,back,10-20 USD
+Twenties,Other Indoor,leg,10-20 USD
+>60,home/restaurant,hand,20-30 USD
+Twenties,Other Indoor,back,10-20 USD
+Twenties,transportation,hernia,10-20 USD
+Fourties,Desk_Job,untagged,10-20 USD
+Fourties,Other Indoor,back,10-20 USD
+Fifties,Desk_Job,head & neck,30-40 USD
+Thirties,transportation,back,10-20 USD
+Fourties,Desk_Job,back,10-20 USD
+Twenties,home/restaurant,hand,0-10 USD
+Thirties,transportation,untagged,0-10 USD
+Thirties,construction,hand,20-30 USD
+Fifties,Desk_Job,back,10-20 USD
+Thirties,Mechanical,head & neck,0-10 USD
+Fourties,Physical,head & neck,30-40 USD
+Fifties,Desk_Job,head & neck,10-20 USD
+Fourties,transportation,back,10-20 USD
+Twenties,Physical,hand,10-20 USD
+Twenties,Other Indoor,untagged,10-20 USD
+Fifties,white_collar,leg,0-10 USD
+Fifties,Other Indoor,leg,10-20 USD
+Fourties,Other Indoor,back,10-20 USD
+Thirties,Other Indoor,leg,20-30 USD
+Fourties,Desk_Job,untagged,10-20 USD
+Fifties,transportation,hand,10-20 USD
+Thirties,Desk_Job,leg,10-20 USD
+>60,transportation,hand,10-20 USD
+Fifties,transportation,head & neck,20-30 USD
+Fifties,Physical,hand,0-10 USD
+Thirties,Desk_Job,brain,20-30 USD
+Fourties,construction,hand,10-20 USD
+Fourties,construction,hand,10-20 USD
+Fourties,Other Indoor,back,0-10 USD
+Fifties,Physical,stomach,20-30 USD
+Fourties,transportation,back,10-20 USD
+Thirties,Desk_Job,leg,10-20 USD
+Fourties,Physical,leg,20-30 USD
+Thirties,Desk_Job,brain,10-20 USD
+Twenties,Mechanical,hand,10-20 USD
+Fourties,white_collar,back,0-10 USD
+Thirties,transportation,back,20-30 USD
+Fifties,white_collar,hand,10-20 USD
+Fourties,Desk_Job,back,10-20 USD
+>60,transportation,head & neck,10-20 USD
+Twenties,Other Indoor,hand,0-10 USD
+Thirties,Other Indoor,hand,0-10 USD
+Fourties,Desk_Job,leg,10-20 USD
+Fifties,Other Indoor,brain,20-30 USD
+Fifties,Desk_Job,leg,10-20 USD
+Thirties,Other Indoor,head & neck,0-10 USD
+Thirties,Other Outdoor,back,10-20 USD
+>60,Other Indoor,head & neck,10-20 USD
+Twenties,Other Indoor,back,10-20 USD
+Thirties,transportation,back,10-20 USD
+Fifties,transportation,brain,10-20 USD
+>60,Other Indoor,hand,>100 USD
+Fifties,Physical,back,10-20 USD
+0-20,Other Indoor,back,0-10 USD
+Fourties,white_collar,brain,10-20 USD
+Fifties,white_collar,leg,20-30 USD
+Thirties,Mechanical,hand,0-10 USD
+>60,Other Outdoor,leg,10-20 USD
+Thirties,Mechanical,back,10-20 USD
+Fourties,transportation,leg,10-20 USD
+Fifties,Other Indoor,leg,10-20 USD
+Fourties,Desk_Job,hand,10-20 USD
+Fourties,Other Outdoor,head & neck,10-20 USD
+Thirties,Physical,hand,10-20 USD
+Fifties,white_collar,hand,10-20 USD
+>60,Other Outdoor,hand,30-40 USD
+Twenties,Physical,head & neck,10-20 USD
+>60,Physical,head & neck,10-20 USD
+Fifties,transportation,back,20-30 USD
+Thirties,transportation,hand,0-10 USD
+Fifties,transportation,leg,10-20 USD
+Fifties,home/restaurant,untagged,10-20 USD
+Fifties,transportation,leg,20-30 USD
+Thirties,Physical,head & neck,10-20 USD
+Fourties,Mechanical,hand,10-20 USD
+Twenties,Mechanical,hand,10-20 USD
+Thirties,Other Indoor,back,40-50 USD
+>60,home/restaurant,leg,>100 USD
+Fourties,transportation,brain,0-10 USD
+Fifties,white_collar,hand,0-10 USD
+Fourties,Desk_Job,untagged,10-20 USD
+>60,Physical,back,0-10 USD
+Thirties,Other Indoor,hand,20-30 USD
+Fifties,Other Indoor,back,50-100 USD
+Fifties,transportation,untagged,10-20 USD
+Thirties,white_collar,back,10-20 USD
+Fourties,white_collar,chest & lungs,0-10 USD
+Fourties,Other Indoor,hand,20-30 USD
+Twenties,white_collar,head & neck,10-20 USD
+>60,transportation,back,0-10 USD
+Fourties,Physical,hand,20-30 USD
+Fourties,Desk_Job,brain,10-20 USD
+Fifties,Other Indoor,hand,10-20 USD
+Fifties,Other Indoor,back,0-10 USD
+Fourties,transportation,head & neck,>100 USD
+Twenties,transportation,leg,10-20 USD
+Thirties,transportation,leg,0-10 USD
+>60,Physical,hernia,10-20 USD
+Thirties,Other Indoor,leg,10-20 USD
+>60,transportation,hand,10-20 USD
+Thirties,Other Outdoor,leg,10-20 USD
+Fourties,Other Indoor,brain,20-30 USD
+Fifties,Physical,untagged,10-20 USD
+Twenties,Mechanical,back,10-20 USD
+Thirties,Desk_Job,head & neck,10-20 USD
+Fourties,transportation,head & neck,20-30 USD
+>60,home/restaurant,untagged,20-30 USD
+Thirties,Other Indoor,back,10-20 USD
+Fourties,transportation,head & neck,10-20 USD
+Thirties,Other Indoor,hand,0-10 USD
+Thirties,home/restaurant,leg,40-50 USD
+>60,Desk_Job,hand,20-30 USD
+Twenties,white_collar,back,0-10 USD
+Twenties,white_collar,back,10-20 USD
+Thirties,Other Outdoor,leg,0-10 USD
+Fifties,Other Indoor,hand,10-20 USD
+Twenties,white_collar,hand,10-20 USD
+Thirties,Other Indoor,back,10-20 USD
+Fourties,white_collar,leg,>100 USD
+Fifties,Mechanical,chest & lungs,20-30 USD
+Thirties,Physical,untagged,10-20 USD
+Fifties,Physical,back,10-20 USD
+Thirties,Desk_Job,back,10-20 USD
+Fifties,Physical,hand,10-20 USD
+Thirties,Other Indoor,hand,10-20 USD
+Thirties,Desk_Job,untagged,10-20 USD
+Fourties,Desk_Job,chest & lungs,10-20 USD
+Fifties,Mechanical,back,20-30 USD
+Fifties,transportation,leg,0-10 USD
+Thirties,Other Indoor,hand,20-30 USD
+Fourties,Other Indoor,leg,10-20 USD
+Twenties,Physical,back,0-10 USD
+Thirties,Other Indoor,brain,10-20 USD
+Fourties,Physical,back,10-20 USD
+Fifties,Desk_Job,head & neck,10-20 USD
+Thirties,Mechanical,back,20-30 USD
+Fourties,Physical,hand,20-30 USD
+Fourties,Other Indoor,leg,20-30 USD
+Fourties,Other Indoor,head & neck,>100 USD
+Thirties,white_collar,back,10-20 USD
+>60,white_collar,back,0-10 USD
+Twenties,construction,brain,10-20 USD
+Fourties,Other Indoor,back,0-10 USD
+0-20,Mechanical,head & neck,0-10 USD
+Twenties,construction,back,10-20 USD
+Twenties,Other Indoor,hand,30-40 USD
+Twenties,Mechanical,untagged,0-10 USD
+0-20,Other Indoor,hand,10-20 USD
+Fourties,Other Indoor,leg,0-10 USD
+Fourties,Other Indoor,leg,10-20 USD
+>60,Other Indoor,untagged,0-10 USD
+Twenties,Physical,hand,20-30 USD
+Fourties,transportation,hand,10-20 USD
+Thirties,construction,head & neck,10-20 USD
+Fifties,Other Indoor,back,>100 USD
+Thirties,Other Indoor,brain,10-20 USD
+Fourties,white_collar,leg,10-20 USD
+>60,home/restaurant,leg,10-20 USD
+Fifties,Other Indoor,hand,10-20 USD
+Fourties,Other Indoor,head & neck,20-30 USD
+>60,white_collar,back,10-20 USD
+Fourties,Other Indoor,head & neck,0-10 USD
+Fourties,Physical,head & neck,10-20 USD
+Twenties,Other Indoor,back,10-20 USD
+Twenties,Other Indoor,back,10-20 USD
+0-20,Mechanical,back,0-10 USD
+>60,Mechanical,leg,10-20 USD
+Twenties,Other Indoor,leg,10-20 USD
+Fifties,Physical,brain,0-10 USD
+>60,Other Indoor,leg,20-30 USD
+>60,Mechanical,brain,10-20 USD
+Fourties,Desk_Job,hand,20-30 USD
+Fourties,Desk_Job,hand,10-20 USD
+Fourties,Mechanical,hernia,>100 USD
+Thirties,Other Indoor,hernia,10-20 USD
+Fourties,Mechanical,hand,20-30 USD
+Fifties,transportation,head & neck,10-20 USD
+Thirties,Other Outdoor,hand,10-20 USD
+Fourties,Other Indoor,hand,10-20 USD
+Twenties,Physical,head & neck,10-20 USD
+>60,Other Indoor,back,20-30 USD
+>60,Mechanical,head & neck,10-20 USD
+0-20,white_collar,back,10-20 USD
+Fifties,white_collar,leg,30-40 USD
+Fifties,Other Indoor,leg,10-20 USD
+Fifties,Other Indoor,hand,10-20 USD
+Fourties,Other Indoor,head & neck,40-50 USD
+Fourties,transportation,head & neck,10-20 USD
+Thirties,Desk_Job,head & neck,20-30 USD
+Fifties,Other Outdoor,leg,10-20 USD
+Thirties,Mechanical,untagged,10-20 USD
+Fifties,Other Indoor,brain,0-10 USD
+Fourties,Desk_Job,back,10-20 USD
+>60,transportation,hand,0-10 USD
+Fifties,transportation,back,10-20 USD
+Fourties,Desk_Job,leg,0-10 USD
+Fourties,home/restaurant,back,0-10 USD
+Thirties,Desk_Job,head & neck,10-20 USD
+>60,Physical,hand,10-20 USD
+Fourties,Mechanical,hand,10-20 USD
+Fifties,Other Indoor,hand,10-20 USD
+Fourties,transportation,head & neck,>100 USD
+Fifties,Other Indoor,brain,0-10 USD
+Fifties,Physical,head & neck,10-20 USD
+Fifties,Other Indoor,hand,10-20 USD
+Fourties,home/restaurant,back,10-20 USD
+Fifties,construction,chest & lungs,10-20 USD
+Fourties,Other Indoor,chest & lungs,30-40 USD
+Fourties,Desk_Job,untagged,20-30 USD
+Thirties,Physical,hand,10-20 USD
+Fourties,Physical,hand,0-10 USD
+0-20,transportation,chest & lungs,10-20 USD
+Twenties,Other Indoor,brain,10-20 USD
+Fifties,home/restaurant,hand,10-20 USD
+Thirties,Mechanical,leg,20-30 USD
+Thirties,Desk_Job,back,10-20 USD
+Fourties,Desk_Job,back,0-10 USD
+Thirties,Physical,leg,0-10 USD
+Fourties,Desk_Job,back,0-10 USD
+Thirties,Mechanical,back,10-20 USD
+Thirties,Other Indoor,hand,10-20 USD
+Twenties,transportation,back,10-20 USD
+>60,Other Indoor,hand,20-30 USD
+Twenties,Physical,leg,10-20 USD
+Fourties,Other Outdoor,back,30-40 USD
+Twenties,Other Outdoor,back,10-20 USD
+Twenties,Other Indoor,leg,0-10 USD
+>60,Other Indoor,hand,10-20 USD
+Fourties,Other Outdoor,back,10-20 USD
+Twenties,Desk_Job,untagged,0-10 USD
+Fifties,Desk_Job,back,40-50 USD
+Fourties,transportation,leg,20-30 USD
+Fourties,Other Indoor,hand,10-20 USD
+Twenties,Other Indoor,hand,10-20 USD
+>60,transportation,back,10-20 USD
+Twenties,Other Indoor,head & neck,10-20 USD
+0-20,Other Outdoor,hand,10-20 USD
+Fifties,Other Indoor,untagged,10-20 USD
+Thirties,white_collar,back,0-10 USD
+Fourties,Desk_Job,head & neck,10-20 USD
+Fifties,transportation,back,10-20 USD
+Thirties,Other Indoor,leg,40-50 USD
+Fifties,Other Indoor,back,10-20 USD
+Fourties,Other Indoor,leg,10-20 USD
+Fourties,Other Indoor,leg,10-20 USD
+Fourties,Other Outdoor,leg,>100 USD
+Fifties,white_collar,untagged,10-20 USD
+Thirties,Other Indoor,hand,10-20 USD
+Fifties,transportation,back,0-10 USD
+Thirties,home/restaurant,leg,20-30 USD
+Fourties,Desk_Job,hand,10-20 USD
+Twenties,Other Outdoor,leg,10-20 USD
+Fourties,construction,leg,20-30 USD
+Thirties,Desk_Job,back,20-30 USD
+Thirties,Desk_Job,head & neck,10-20 USD
+Fourties,Physical,leg,10-20 USD
+Thirties,Desk_Job,back,0-10 USD
+Fourties,transportation,hand,0-10 USD
+Twenties,Other Outdoor,back,0-10 USD
+Fifties,Other Indoor,hand,10-20 USD
+Fifties,Mechanical,hand,10-20 USD
+Fourties,Other Indoor,hand,30-40 USD
+Fifties,transportation,head & neck,20-30 USD
+Fourties,white_collar,leg,10-20 USD
+Twenties,Mechanical,leg,0-10 USD
+Fourties,Other Indoor,back,40-50 USD
+Fifties,Physical,hand,10-20 USD
+Fifties,Mechanical,back,10-20 USD
+Twenties,Other Indoor,untagged,0-10 USD
+0-20,Mechanical,back,10-20 USD
+Fifties,Other Outdoor,hand,30-40 USD
+>60,transportation,hand,10-20 USD
+>60,transportation,hand,10-20 USD
+Twenties,Mechanical,back,10-20 USD
+Fifties,Other Outdoor,hand,10-20 USD
+Twenties,Physical,hernia,10-20 USD
+Thirties,transportation,head & neck,10-20 USD
+Thirties,transportation,hand,10-20 USD
+Fourties,Other Indoor,hand,10-20 USD
+Fourties,Other Indoor,hand,10-20 USD
+Thirties,Other Indoor,hand,10-20 USD
+Fourties,home/restaurant,leg,0-10 USD
+Fourties,transportation,untagged,10-20 USD
+Fourties,Mechanical,back,0-10 USD
+Fifties,Physical,back,20-30 USD
+Twenties,home/restaurant,hand,10-20 USD
+Twenties,Other Outdoor,hand,10-20 USD
+Twenties,Other Indoor,back,10-20 USD
+Fifties,Other Indoor,head & neck,10-20 USD
+Fifties,Other Indoor,leg,10-20 USD
+Fifties,Desk_Job,leg,20-30 USD
+Twenties,Mechanical,head & neck,0-10 USD
+Fourties,transportation,back,0-10 USD
+Fifties,transportation,head & neck,20-30 USD
+Fourties,transportation,back,30-40 USD
+Thirties,Mechanical,leg,10-20 USD
+Twenties,white_collar,leg,0-10 USD
+>60,Other Indoor,hand,0-10 USD
+Fifties,home/restaurant,head & neck,40-50 USD
+Twenties,construction,head & neck,>100 USD
+Fifties,Mechanical,back,0-10 USD
+Thirties,Physical,leg,0-10 USD
+Thirties,Other Outdoor,leg,20-30 USD
+Thirties,white_collar,back,10-20 USD
+Thirties,Mechanical,back,10-20 USD
+Twenties,Other Indoor,leg,0-10 USD
+Fifties,Other Indoor,untagged,30-40 USD
+Fifties,home/restaurant,leg,0-10 USD
+Fourties,home/restaurant,head & neck,10-20 USD
+>60,Other Indoor,back,>100 USD
+Fifties,Desk_Job,leg,10-20 USD
+Fourties,Other Indoor,hand,10-20 USD
+Thirties,Other Indoor,hand,10-20 USD
+Twenties,Other Indoor,untagged,10-20 USD
+Fifties,Mechanical,back,10-20 USD
+Twenties,Physical,head & neck,0-10 USD
+Fourties,transportation,hand,20-30 USD
+Thirties,Other Indoor,back,>100 USD
+Twenties,white_collar,back,10-20 USD
+Thirties,Other Indoor,untagged,10-20 USD
+Thirties,white_collar,hand,10-20 USD
+Thirties,Other Indoor,leg,10-20 USD
+Fifties,Other Indoor,back,0-10 USD
+Fourties,Physical,leg,30-40 USD
+0-20,Other Indoor,head & neck,20-30 USD
+Fifties,Physical,back,10-20 USD
+Thirties,Mechanical,head & neck,20-30 USD
+Fifties,Desk_Job,hand,10-20 USD
+0-20,Other Indoor,head & neck,10-20 USD
+Fourties,Physical,head & neck,10-20 USD
+Thirties,home/restaurant,untagged,10-20 USD
+Thirties,Physical,untagged,10-20 USD
+Fourties,Other Indoor,leg,10-20 USD
+Fourties,transportation,back,10-20 USD
+Twenties,Physical,back,10-20 USD
+Twenties,Other Indoor,hand,0-10 USD
+Fourties,home/restaurant,hand,10-20 USD
+Twenties,Desk_Job,hand,20-30 USD
+Fourties,transportation,back,10-20 USD
+Fourties,Other Indoor,head & neck,0-10 USD
+Thirties,Other Indoor,leg,10-20 USD
+>60,Physical,brain,20-30 USD
+Thirties,Other Indoor,head & neck,10-20 USD
+Twenties,Other Outdoor,hand,10-20 USD
+>60,Physical,hand,0-10 USD
+Twenties,transportation,head & neck,0-10 USD
+Fifties,Physical,brain,0-10 USD
+Fifties,Physical,brain,30-40 USD
+>60,white_collar,back,10-20 USD
+0-20,transportation,leg,0-10 USD
+Thirties,Physical,hand,10-20 USD
+Twenties,Other Indoor,head & neck,10-20 USD
+Fifties,transportation,hand,20-30 USD
+Fourties,white_collar,leg,10-20 USD
+Fourties,Desk_Job,chest & lungs,10-20 USD
+Fourties,transportation,back,0-10 USD
+>60,Physical,leg,10-20 USD
+Fifties,Physical,leg,10-20 USD
+Fourties,transportation,leg,10-20 USD
+>60,Desk_Job,back,20-30 USD
+Fourties,Desk_Job,back,10-20 USD
+Twenties,transportation,hand,0-10 USD
+Fourties,Desk_Job,hand,20-30 USD
+Twenties,Desk_Job,leg,10-20 USD
+Fifties,Other Indoor,hand,20-30 USD
+Fourties,Other Indoor,head & neck,10-20 USD
+Twenties,Physical,leg,10-20 USD
+Fourties,Other Indoor,untagged,10-20 USD
+Fourties,Other Indoor,back,10-20 USD
+Thirties,transportation,hand,>100 USD
+>60,transportation,hand,0-10 USD
+Twenties,transportation,hand,0-10 USD
+Thirties,Physical,leg,10-20 USD
+Twenties,Physical,hand,10-20 USD
+Fourties,Other Indoor,leg,>100 USD
+Thirties,transportation,leg,10-20 USD
+Fifties,transportation,head & neck,10-20 USD
+Fifties,Physical,back,10-20 USD
+Fifties,transportation,leg,50-100 USD
+Fifties,Physical,leg,20-30 USD
+Fourties,Other Indoor,brain,10-20 USD
+Thirties,Mechanical,head & neck,10-20 USD
+Thirties,transportation,back,20-30 USD
+Fifties,Physical,chest & lungs,10-20 USD
+Fourties,Other Outdoor,untagged,10-20 USD
+Fourties,home/restaurant,hand,0-10 USD
+Fourties,Other Indoor,hand,10-20 USD
+Fourties,Other Indoor,brain,20-30 USD
+Thirties,home/restaurant,hand,10-20 USD
+Fifties,Desk_Job,hand,20-30 USD
+Fourties,transportation,leg,0-10 USD
+Thirties,Physical,head & neck,10-20 USD
+Thirties,Other Indoor,head & neck,10-20 USD
+Thirties,Other Indoor,brain,10-20 USD
+Thirties,Other Indoor,brain,10-20 USD
+Twenties,construction,back,10-20 USD
+Thirties,Other Indoor,back,10-20 USD
+Thirties,Other Indoor,back,10-20 USD
+Fourties,Other Indoor,hand,10-20 USD
+Fourties,Other Indoor,hand,20-30 USD
+Thirties,white_collar,leg,0-10 USD
+Thirties,Desk_Job,hand,0-10 USD
+Thirties,Physical,leg,0-10 USD
+Fifties,transportation,untagged,0-10 USD
+Thirties,Desk_Job,brain,10-20 USD
+>60,Physical,untagged,>100 USD
+0-20,Mechanical,untagged,30-40 USD
+Thirties,white_collar,leg,20-30 USD
+Fifties,transportation,leg,0-10 USD
+Fifties,Other Indoor,hand,10-20 USD
+Fourties,Other Indoor,untagged,10-20 USD
+Fifties,Mechanical,hand,20-30 USD
+Fifties,Physical,hernia,10-20 USD
+Twenties,Physical,hernia,10-20 USD
+Fourties,Physical,head & neck,10-20 USD
+Twenties,Desk_Job,hand,20-30 USD
+Fifties,transportation,brain,>100 USD
+Fifties,Desk_Job,hand,0-10 USD
+Fifties,Physical,head & neck,0-10 USD
+Thirties,Other Indoor,back,10-20 USD
+Twenties,Physical,hand,10-20 USD
+Fifties,Mechanical,back,10-20 USD
+Twenties,Other Indoor,back,10-20 USD
+Thirties,Other Indoor,back,10-20 USD
+Twenties,home/restaurant,head & neck,10-20 USD
+Thirties,white_collar,leg,40-50 USD
+Twenties,Physical,head & neck,10-20 USD
+Fourties,Other Indoor,head & neck,10-20 USD
+Thirties,Physical,hand,0-10 USD
+Thirties,transportation,hand,20-30 USD
+Thirties,transportation,head & neck,20-30 USD
+>60,Other Indoor,back,10-20 USD
+Twenties,Physical,head & neck,10-20 USD
+Thirties,Other Indoor,leg,10-20 USD
+Thirties,Other Indoor,leg,10-20 USD
+Twenties,Other Outdoor,head & neck,10-20 USD
+Fifties,Desk_Job,back,10-20 USD
+Thirties,construction,hand,10-20 USD
+>60,transportation,leg,10-20 USD
+Thirties,Mechanical,head & neck,10-20 USD
+Twenties,transportation,hand,10-20 USD
+Fifties,Other Indoor,back,10-20 USD
+Thirties,Other Indoor,leg,10-20 USD
+Fifties,Mechanical,head & neck,0-10 USD
+Twenties,Other Indoor,head & neck,10-20 USD
+Twenties,Other Indoor,hand,10-20 USD
+>60,Other Indoor,hand,0-10 USD
+Thirties,transportation,hand,10-20 USD
+Twenties,Mechanical,leg,10-20 USD
+Fourties,Desk_Job,hand,10-20 USD
+Fifties,Other Indoor,brain,10-20 USD
+Fifties,Other Indoor,back,10-20 USD
+Fourties,transportation,back,10-20 USD
+Fourties,Other Indoor,back,10-20 USD
+Twenties,Mechanical,untagged,10-20 USD
+Fifties,Other Indoor,back,20-30 USD
+Fifties,transportation,hand,10-20 USD
+Fourties,Mechanical,hand,20-30 USD
+Thirties,Other Indoor,leg,10-20 USD
+Twenties,home/restaurant,leg,10-20 USD
+>60,transportation,brain,>100 USD
+Fifties,home/restaurant,leg,30-40 USD
+Thirties,Mechanical,brain,20-30 USD
+Fourties,Other Indoor,hand,0-10 USD
+Fourties,home/restaurant,head & neck,10-20 USD
+Twenties,Physical,hand,10-20 USD
+Thirties,Desk_Job,back,20-30 USD
+Fifties,home/restaurant,back,10-20 USD
+Fifties,Physical,back,10-20 USD
+Fourties,white_collar,back,10-20 USD
+Thirties,white_collar,leg,0-10 USD
+Fifties,Other Outdoor,hand,20-30 USD
+Fourties,Other Outdoor,hand,10-20 USD
+Thirties,Other Outdoor,back,>100 USD
+Fourties,Physical,hand,10-20 USD
+Thirties,Physical,hernia,10-20 USD
+>60,Physical,leg,10-20 USD
+Fourties,Other Indoor,back,0-10 USD
+Twenties,transportation,back,10-20 USD
+Twenties,construction,leg,10-20 USD
+Twenties,Other Outdoor,back,10-20 USD
+Thirties,Other Outdoor,leg,>100 USD
+Thirties,Other Indoor,head & neck,20-30 USD
+Fifties,Mechanical,head & neck,20-30 USD
+Fifties,Other Indoor,back,10-20 USD
+Twenties,Other Indoor,hand,0-10 USD
+Twenties,Mechanical,back,10-20 USD
+Fifties,Other Outdoor,untagged,10-20 USD
+Twenties,Physical,head & neck,10-20 USD
+Fourties,Other Indoor,hand,10-20 USD
+Fourties,Physical,leg,10-20 USD
+Fifties,Physical,hand,>100 USD
+Fourties,Physical,head & neck,10-20 USD
+Fourties,Mechanical,leg,10-20 USD
+Twenties,transportation,hand,10-20 USD
+Fifties,transportation,head & neck,10-20 USD
+Twenties,home/restaurant,untagged,20-30 USD
+Fourties,transportation,back,10-20 USD
+Thirties,Desk_Job,leg,10-20 USD
+Twenties,transportation,hernia,10-20 USD
+Thirties,Desk_Job,hand,10-20 USD
+Fifties,Other Outdoor,hand,>100 USD
+>60,Other Indoor,back,>100 USD
+Twenties,transportation,back,0-10 USD
+Fifties,Other Indoor,hand,20-30 USD
+Thirties,Other Indoor,back,10-20 USD
+Thirties,home/restaurant,head & neck,50-100 USD
+Fifties,white_collar,head & neck,10-20 USD
+Fourties,Other Indoor,hand,0-10 USD
+Thirties,home/restaurant,leg,10-20 USD
+Twenties,Physical,head & neck,10-20 USD
+Twenties,Other Indoor,hand,0-10 USD
+>60,transportation,brain,20-30 USD
+Fifties,white_collar,brain,10-20 USD
+Twenties,white_collar,untagged,10-20 USD
+>60,construction,head & neck,10-20 USD
+Thirties,Other Indoor,head & neck,10-20 USD
+Fifties,Mechanical,head & neck,20-30 USD
+Fifties,Other Indoor,back,10-20 USD
+Thirties,Other Indoor,leg,10-20 USD
+Fourties,construction,stomach,30-40 USD
+Fourties,Mechanical,back,10-20 USD
+Fifties,Other Indoor,head & neck,20-30 USD
+Fifties,Mechanical,untagged,0-10 USD
+Twenties,transportation,back,10-20 USD
+Fourties,Other Indoor,back,20-30 USD
+Fifties,Mechanical,back,10-20 USD
+Fifties,Other Indoor,back,10-20 USD
+Thirties,Other Indoor,hand,10-20 USD
+Fifties,transportation,chest & lungs,20-30 USD
+Twenties,Other Outdoor,head & neck,10-20 USD
+Fourties,Desk_Job,hand,10-20 USD
+Twenties,Other Indoor,leg,40-50 USD
+Twenties,Mechanical,back,10-20 USD
+Thirties,Desk_Job,hand,10-20 USD
+Fifties,Physical,head & neck,10-20 USD
+>60,home/restaurant,leg,40-50 USD
+0-20,Mechanical,leg,10-20 USD
+Twenties,Other Indoor,back,0-10 USD
+>60,white_collar,brain,30-40 USD
+>60,Other Indoor,untagged,10-20 USD
+0-20,Desk_Job,head & neck,10-20 USD
+Twenties,Desk_Job,back,10-20 USD
+>60,Other Outdoor,back,>100 USD
+Thirties,transportation,back,10-20 USD
+Thirties,Other Outdoor,back,0-10 USD
+Fourties,white_collar,back,10-20 USD
+Twenties,Other Indoor,back,0-10 USD
+Fourties,Desk_Job,leg,10-20 USD
+Fifties,Other Outdoor,head & neck,10-20 USD
+Fifties,Other Indoor,head & neck,20-30 USD
+Thirties,Physical,back,0-10 USD
+Fourties,Other Indoor,head & neck,10-20 USD
+Fifties,transportation,back,0-10 USD
+Thirties,Mechanical,hand,>100 USD
+Twenties,Other Indoor,back,10-20 USD
+Fourties,Other Outdoor,back,0-10 USD
+>60,Mechanical,head & neck,0-10 USD
+Fourties,Mechanical,back,0-10 USD
+Thirties,home/restaurant,back,10-20 USD
+Thirties,white_collar,back,20-30 USD
+0-20,white_collar,untagged,10-20 USD
+Fourties,Other Indoor,hand,0-10 USD
+Fourties,white_collar,hand,20-30 USD
+Thirties,white_collar,hand,10-20 USD
+Twenties,Other Indoor,head & neck,10-20 USD
+Thirties,home/restaurant,back,10-20 USD
+Twenties,Other Indoor,back,10-20 USD
+Fourties,Other Indoor,back,10-20 USD
+Thirties,home/restaurant,hand,20-30 USD
+Fifties,Other Indoor,untagged,0-10 USD
+Twenties,home/restaurant,hand,0-10 USD
+Thirties,transportation,head & neck,10-20 USD
+Thirties,Other Indoor,leg,10-20 USD
+Thirties,Desk_Job,untagged,>100 USD
+Thirties,Desk_Job,leg,10-20 USD
+Fourties,transportation,head & neck,0-10 USD
+Fourties,Desk_Job,brain,0-10 USD
+0-20,home/restaurant,back,10-20 USD
+Fourties,home/restaurant,leg,10-20 USD
+Twenties,Other Indoor,head & neck,10-20 USD
+Thirties,Other Indoor,untagged,10-20 USD
+Fourties,Physical,untagged,10-20 USD
+0-20,Other Indoor,brain,0-10 USD
+Twenties,Other Indoor,leg,0-10 USD
+>60,Physical,untagged,10-20 USD
+Fifties,Other Indoor,leg,10-20 USD
+>60,Other Indoor,back,20-30 USD
+Fifties,white_collar,chest & lungs,20-30 USD
+Fourties,transportation,head & neck,>100 USD
+Fifties,Desk_Job,hand,>100 USD
+Fifties,Desk_Job,back,10-20 USD
+Fifties,construction,leg,30-40 USD
+Fourties,white_collar,hand,10-20 USD
+Twenties,home/restaurant,back,0-10 USD
+Twenties,Physical,back,40-50 USD
+Fourties,Other Indoor,back,10-20 USD
+Fifties,Other Indoor,back,10-20 USD
+Thirties,Physical,hand,10-20 USD
+Fourties,transportation,hand,0-10 USD
+Fourties,Other Indoor,chest & lungs,10-20 USD
+Thirties,Desk_Job,head & neck,0-10 USD
+Thirties,Other Indoor,head & neck,10-20 USD
+Fifties,Mechanical,hand,10-20 USD
+Fourties,Other Outdoor,hand,10-20 USD
+Fourties,Physical,chest & lungs,0-10 USD
+Fourties,white_collar,chest & lungs,10-20 USD
+Fifties,Other Indoor,chest & lungs,0-10 USD
+Thirties,Mechanical,head & neck,10-20 USD
+Thirties,Desk_Job,hand,20-30 USD
+Fourties,home/restaurant,back,0-10 USD
+Fourties,Mechanical,back,10-20 USD
+Fourties,home/restaurant,hand,0-10 USD
+Fifties,Other Outdoor,leg,10-20 USD
+Thirties,Other Indoor,hand,10-20 USD
+Twenties,transportation,leg,10-20 USD
+Thirties,Other Indoor,back,0-10 USD
+>60,Physical,hand,10-20 USD
+Fourties,Other Indoor,head & neck,10-20 USD
+Twenties,transportation,back,20-30 USD
+Twenties,Physical,leg,10-20 USD
+Twenties,Physical,leg,0-10 USD
+Thirties,Desk_Job,hand,10-20 USD
+Fifties,home/restaurant,back,10-20 USD
+Fifties,Other Outdoor,chest & lungs,20-30 USD
+>60,Mechanical,head & neck,10-20 USD
+Fifties,Desk_Job,brain,10-20 USD
+Fifties,Mechanical,back,20-30 USD
+Twenties,Other Indoor,back,10-20 USD
+Thirties,Other Indoor,head & neck,10-20 USD
+Fourties,Other Indoor,hand,10-20 USD
+Thirties,Other Indoor,back,10-20 USD
+>60,Physical,leg,0-10 USD
+Fifties,Mechanical,leg,0-10 USD
+>60,Desk_Job,hand,10-20 USD
+Thirties,Physical,leg,10-20 USD
+Fourties,Other Outdoor,back,0-10 USD
+Fourties,home/restaurant,hand,10-20 USD
+Twenties,Physical,leg,10-20 USD
+Thirties,Other Indoor,back,0-10 USD
+Twenties,transportation,leg,10-20 USD
+Fourties,Physical,untagged,10-20 USD
+0-20,transportation,back,10-20 USD
+Fifties,Physical,hand,10-20 USD
+Fifties,Other Outdoor,hand,10-20 USD
+Fifties,Physical,back,10-20 USD
+Twenties,transportation,head & neck,10-20 USD
+>60,Mechanical,back,10-20 USD
+Thirties,home/restaurant,chest & lungs,10-20 USD
+Thirties,Desk_Job,back,0-10 USD
+Fourties,white_collar,back,>100 USD
+Twenties,Desk_Job,back,0-10 USD
+Fourties,Other Indoor,leg,10-20 USD
+Thirties,Desk_Job,untagged,10-20 USD
+Thirties,transportation,chest & lungs,10-20 USD
+Fourties,transportation,head & neck,10-20 USD
+Fourties,Other Outdoor,untagged,20-30 USD
+Twenties,Other Indoor,hand,0-10 USD
+Fourties,Other Indoor,untagged,10-20 USD
+Fourties,white_collar,hand,10-20 USD
+>60,white_collar,leg,30-40 USD
+Fourties,Other Indoor,head & neck,10-20 USD
+Twenties,Mechanical,head & neck,10-20 USD
+Thirties,Physical,head & neck,0-10 USD
+Thirties,Physical,back,10-20 USD
+Twenties,Physical,hand,10-20 USD
+Twenties,Desk_Job,leg,10-20 USD
+Fourties,Other Indoor,head & neck,10-20 USD
+Twenties,Other Indoor,head & neck,20-30 USD
+Thirties,Other Indoor,chest & lungs,10-20 USD
+Fourties,Other Outdoor,hand,10-20 USD
+Twenties,Other Outdoor,hand,0-10 USD
+Twenties,Mechanical,leg,10-20 USD
+Fifties,Desk_Job,back,10-20 USD
+Thirties,Mechanical,hand,0-10 USD
+Fifties,home/restaurant,hand,20-30 USD
+Thirties,Mechanical,hand,10-20 USD
+Thirties,Physical,hand,10-20 USD
+Twenties,Desk_Job,untagged,10-20 USD
+Fourties,Physical,back,10-20 USD
+>60,home/restaurant,back,10-20 USD
+Twenties,Other Indoor,hand,0-10 USD
+Twenties,Physical,back,10-20 USD
+Twenties,transportation,untagged,10-20 USD
+Fourties,Other Indoor,back,10-20 USD
+Thirties,home/restaurant,back,>100 USD
+Fifties,Other Indoor,back,20-30 USD
+Fifties,Physical,untagged,>100 USD
+Twenties,Other Indoor,leg,0-10 USD
+Thirties,Physical,hand,0-10 USD
+Fifties,Mechanical,back,20-30 USD
+Thirties,home/restaurant,leg,10-20 USD
+Thirties,white_collar,hand,0-10 USD
+Fifties,transportation,brain,10-20 USD
+Thirties,Physical,hand,10-20 USD
+Fourties,Desk_Job,leg,10-20 USD
+Fourties,Physical,hand,10-20 USD
+Thirties,Physical,leg,0-10 USD
+0-20,Physical,leg,10-20 USD
+Fourties,Mechanical,hand,0-10 USD
+Fourties,white_collar,back,10-20 USD
+Twenties,Other Indoor,hand,10-20 USD
+Thirties,Desk_Job,head & neck,30-40 USD
+Thirties,Desk_Job,leg,10-20 USD
+Fourties,Physical,back,10-20 USD
+Fifties,transportation,back,0-10 USD
+Fifties,home/restaurant,leg,20-30 USD
+Fifties,transportation,head & neck,10-20 USD
+Twenties,Other Indoor,back,0-10 USD
+Fifties,home/restaurant,leg,0-10 USD
+Thirties,Mechanical,back,10-20 USD
+Fourties,white_collar,head & neck,10-20 USD
+Fifties,Mechanical,back,10-20 USD
+>60,transportation,back,10-20 USD
+Twenties,Other Indoor,hand,10-20 USD
+Twenties,Mechanical,untagged,10-20 USD
+Fifties,transportation,head & neck,10-20 USD
+Fourties,Mechanical,leg,10-20 USD
+Thirties,Other Outdoor,leg,10-20 USD
+0-20,transportation,back,10-20 USD
+Fifties,Physical,untagged,10-20 USD
+Thirties,Mechanical,hand,10-20 USD
+Twenties,Other Outdoor,hand,>100 USD
+0-20,white_collar,leg,10-20 USD
+Fifties,transportation,hand,20-30 USD
+Fifties,Other Outdoor,back,10-20 USD
+Thirties,Other Indoor,back,0-10 USD
+Twenties,Other Indoor,hand,10-20 USD
+Fourties,construction,back,10-20 USD
+Thirties,Physical,back,10-20 USD
+Fourties,home/restaurant,head & neck,20-30 USD
+Thirties,white_collar,leg,10-20 USD
+Fourties,Other Outdoor,hand,20-30 USD
+Fifties,Desk_Job,leg,10-20 USD
+Thirties,transportation,head & neck,10-20 USD
+Twenties,Desk_Job,back,10-20 USD
+>60,Other Indoor,back,20-30 USD
+Thirties,home/restaurant,hand,0-10 USD
+>60,home/restaurant,hand,10-20 USD
+Fifties,Other Indoor,leg,30-40 USD
+Fifties,Desk_Job,hand,20-30 USD
+Fourties,transportation,hand,20-30 USD
+Fourties,Physical,leg,30-40 USD
+Twenties,Other Indoor,leg,10-20 USD
+Thirties,Other Indoor,back,10-20 USD
+0-20,Mechanical,leg,10-20 USD
+Fifties,transportation,hand,10-20 USD
+Fourties,Other Indoor,back,>100 USD
+Fourties,Mechanical,hand,10-20 USD
+Thirties,white_collar,leg,20-30 USD
+>60,Mechanical,back,10-20 USD
+Twenties,white_collar,untagged,10-20 USD
+Twenties,Physical,hand,10-20 USD
+Thirties,Other Indoor,hernia,0-10 USD
+Twenties,Other Indoor,head & neck,10-20 USD
+Fourties,Physical,leg,0-10 USD
+Twenties,Physical,hand,10-20 USD
+Twenties,Other Outdoor,leg,0-10 USD
+Twenties,Mechanical,head & neck,10-20 USD
+Fifties,home/restaurant,head & neck,10-20 USD
+Fourties,Mechanical,hand,0-10 USD
+Twenties,Other Indoor,back,0-10 USD
+Thirties,Physical,hand,10-20 USD
+Twenties,Physical,hand,10-20 USD
+Thirties,Other Indoor,hand,10-20 USD
+Fifties,Mechanical,hernia,10-20 USD
+Twenties,home/restaurant,leg,10-20 USD
+Fourties,Other Indoor,back,10-20 USD
+Twenties,Mechanical,hand,10-20 USD
+Twenties,Mechanical,hand,0-10 USD
+Twenties,Other Outdoor,leg,10-20 USD
+Fourties,Desk_Job,untagged,10-20 USD
+Thirties,Mechanical,leg,10-20 USD
+Fourties,Mechanical,hand,10-20 USD
+Fifties,Mechanical,head & neck,20-30 USD
+Thirties,Mechanical,back,10-20 USD
+Twenties,Desk_Job,hand,10-20 USD
+Twenties,Other Indoor,hand,10-20 USD
+>60,Other Indoor,head & neck,10-20 USD
+Fourties,Other Outdoor,back,10-20 USD
+Fifties,home/restaurant,hand,40-50 USD
+Thirties,Other Outdoor,leg,20-30 USD
+Fourties,Physical,hand,10-20 USD
+>60,white_collar,back,50-100 USD
+Twenties,white_collar,leg,0-10 USD
+>60,Other Indoor,hand,10-20 USD
+Thirties,Physical,back,40-50 USD
+Fourties,white_collar,back,10-20 USD
+Fifties,white_collar,hand,10-20 USD
+Thirties,Other Indoor,head & neck,10-20 USD
+Thirties,Desk_Job,head & neck,10-20 USD
+0-20,Desk_Job,leg,10-20 USD
+Twenties,home/restaurant,leg,10-20 USD
+Thirties,Desk_Job,brain,10-20 USD
+Fourties,transportation,back,>100 USD
+Twenties,transportation,head & neck,10-20 USD
+Fifties,Desk_Job,back,30-40 USD
+Fourties,transportation,hand,10-20 USD
+Thirties,Mechanical,hand,10-20 USD
+Twenties,Desk_Job,leg,10-20 USD
+Fourties,home/restaurant,hand,>100 USD
+Fourties,Other Indoor,leg,30-40 USD
+Thirties,Mechanical,leg,0-10 USD
+Fourties,Other Outdoor,hand,10-20 USD
+Fifties,Desk_Job,brain,10-20 USD
+Fifties,transportation,back,10-20 USD
+Fifties,Physical,hand,10-20 USD
+Twenties,Mechanical,head & neck,10-20 USD
+Fourties,Other Indoor,leg,10-20 USD
+Fourties,Mechanical,chest & lungs,10-20 USD
+Twenties,Mechanical,back,10-20 USD
+Twenties,Other Indoor,back,10-20 USD
+Fourties,Physical,hand,10-20 USD
+Fifties,Physical,head & neck,10-20 USD
+Fourties,Mechanical,head & neck,10-20 USD
+Thirties,Other Indoor,chest & lungs,10-20 USD
+>60,Other Indoor,back,>100 USD
+Fourties,Desk_Job,head & neck,20-30 USD
+Thirties,Other Indoor,back,10-20 USD
+Twenties,Mechanical,untagged,10-20 USD
+Fifties,Other Outdoor,hand,0-10 USD
+Fourties,transportation,hand,30-40 USD
+Fifties,Physical,untagged,10-20 USD
+Fourties,Other Indoor,head & neck,10-20 USD
+Thirties,Other Indoor,hand,10-20 USD
+Fifties,Desk_Job,hand,10-20 USD
+Fifties,Physical,back,20-30 USD
+Fourties,Other Outdoor,chest & lungs,10-20 USD
+Fifties,Physical,leg,10-20 USD
+>60,Physical,chest & lungs,>100 USD
+Fifties,Other Indoor,back,20-30 USD
+>60,white_collar,head & neck,10-20 USD
+Fourties,Mechanical,brain,10-20 USD
+0-20,Physical,leg,10-20 USD
+Fourties,Other Outdoor,hand,0-10 USD
+Thirties,Mechanical,head & neck,10-20 USD
+Twenties,Other Indoor,hand,10-20 USD
+Thirties,Other Indoor,back,10-20 USD
+Twenties,Desk_Job,head & neck,10-20 USD
+Thirties,Mechanical,hand,20-30 USD
+Thirties,Mechanical,untagged,20-30 USD
+Fifties,transportation,leg,10-20 USD
+Thirties,transportation,back,10-20 USD
+Thirties,Physical,head & neck,0-10 USD
+Thirties,Mechanical,hand,20-30 USD
+Thirties,Other Indoor,head & neck,0-10 USD
+Thirties,Other Indoor,back,10-20 USD
+Thirties,Mechanical,leg,10-20 USD
+Thirties,Physical,hand,10-20 USD
+>60,transportation,hand,50-100 USD
+Thirties,Physical,head & neck,10-20 USD
+Thirties,white_collar,head & neck,10-20 USD
+Fifties,Other Outdoor,head & neck,10-20 USD
+>60,Other Indoor,leg,0-10 USD
+Fourties,Other Indoor,back,0-10 USD
+Twenties,transportation,back,0-10 USD
+Fourties,Other Indoor,head & neck,20-30 USD
+Thirties,Desk_Job,leg,10-20 USD
+Fourties,Other Outdoor,leg,20-30 USD
+Fourties,Other Indoor,hand,0-10 USD
+Thirties,Other Indoor,chest & lungs,10-20 USD
+Thirties,Other Outdoor,back,30-40 USD
+Fifties,white_collar,untagged,20-30 USD
+Fourties,home/restaurant,leg,0-10 USD
+Fourties,Other Indoor,leg,0-10 USD
+Twenties,Desk_Job,leg,0-10 USD
+Fifties,Desk_Job,leg,20-30 USD
+Fifties,Desk_Job,hand,0-10 USD
+>60,Desk_Job,back,0-10 USD
+Fifties,Desk_Job,untagged,0-10 USD
+Twenties,transportation,leg,0-10 USD
+Fifties,transportation,hernia,10-20 USD
+Fourties,Other Indoor,head & neck,10-20 USD
+Fourties,Other Indoor,head & neck,10-20 USD
+Fourties,Mechanical,head & neck,10-20 USD
+0-20,Other Indoor,leg,0-10 USD
+Twenties,Desk_Job,head & neck,10-20 USD
+Fourties,transportation,leg,20-30 USD
+Twenties,transportation,brain,10-20 USD
+Twenties,Desk_Job,hand,30-40 USD
+Fourties,Mechanical,back,0-10 USD
+Twenties,transportation,head & neck,0-10 USD
+Thirties,Mechanical,brain,10-20 USD
+Fifties,home/restaurant,back,10-20 USD
+Fourties,transportation,brain,10-20 USD
+Fourties,Other Outdoor,leg,0-10 USD
+Fifties,Other Indoor,back,>100 USD
+Fifties,Other Indoor,back,10-20 USD
+Fourties,Other Indoor,head & neck,10-20 USD
+Fifties,Other Indoor,leg,10-20 USD
+0-20,transportation,brain,20-30 USD
+Twenties,Other Indoor,head & neck,10-20 USD
+Fourties,Mechanical,hand,10-20 USD
+Twenties,Other Indoor,leg,0-10 USD
+Thirties,Mechanical,hand,30-40 USD
+Fifties,Other Indoor,back,10-20 USD
+Twenties,transportation,leg,10-20 USD
+Twenties,Desk_Job,back,0-10 USD
+Fourties,Other Indoor,hand,10-20 USD
+Fifties,Physical,leg,10-20 USD
+Thirties,home/restaurant,head & neck,10-20 USD
+Thirties,home/restaurant,leg,10-20 USD
+Fourties,Mechanical,head & neck,10-20 USD
+Fourties,white_collar,hand,0-10 USD
+Fifties,Other Indoor,hand,10-20 USD
+Twenties,Other Indoor,hand,10-20 USD
+Fourties,Other Indoor,head & neck,20-30 USD
+Twenties,transportation,back,>100 USD
+Fourties,Mechanical,hand,10-20 USD
+Fourties,Desk_Job,head & neck,10-20 USD
+Thirties,Other Indoor,head & neck,10-20 USD
+Thirties,white_collar,hand,10-20 USD
+Fourties,Mechanical,untagged,10-20 USD
+Fourties,Mechanical,chest & lungs,10-20 USD
+Twenties,Other Indoor,untagged,50-100 USD
+Thirties,Mechanical,back,10-20 USD
+Thirties,Other Indoor,untagged,10-20 USD
+Fifties,home/restaurant,head & neck,0-10 USD
+Twenties,Other Indoor,hand,10-20 USD
+>60,transportation,back,10-20 USD
+Fifties,Other Outdoor,back,20-30 USD
+Fifties,Other Indoor,hand,0-10 USD
+Twenties,white_collar,untagged,10-20 USD
+Fifties,Mechanical,hand,20-30 USD
+Fourties,Other Indoor,back,10-20 USD
+Fifties,Desk_Job,back,10-20 USD
+Fourties,Other Indoor,head & neck,10-20 USD
+Fourties,Physical,back,10-20 USD
+Twenties,Desk_Job,hand,20-30 USD
+Thirties,Other Indoor,back,10-20 USD
+Twenties,Desk_Job,leg,10-20 USD
+Fourties,Physical,head & neck,10-20 USD
+Fourties,Other Indoor,leg,10-20 USD
+>60,transportation,head & neck,40-50 USD
+Fifties,construction,untagged,10-20 USD
+Twenties,transportation,head & neck,>100 USD
+Twenties,Other Indoor,leg,10-20 USD
+Fifties,Other Indoor,hand,30-40 USD
+Thirties,Other Outdoor,hand,10-20 USD
+Fifties,Other Indoor,hand,20-30 USD
+Fifties,Desk_Job,head & neck,10-20 USD
+Thirties,home/restaurant,chest & lungs,10-20 USD
+Fifties,Mechanical,back,30-40 USD
+Twenties,Mechanical,back,>100 USD
+>60,Other Indoor,leg,0-10 USD
+Twenties,Desk_Job,leg,10-20 USD
+Fifties,transportation,head & neck,30-40 USD
+Thirties,Other Indoor,head & neck,10-20 USD
+Fifties,Other Indoor,leg,50-100 USD
+Twenties,Physical,back,0-10 USD
+Fourties,Physical,back,0-10 USD
+Fourties,Physical,back,10-20 USD
+Twenties,Physical,head & neck,0-10 USD
+Twenties,Physical,back,10-20 USD
+>60,Desk_Job,back,20-30 USD
+>60,Desk_Job,back,>100 USD
+Twenties,Desk_Job,back,20-30 USD
+Thirties,transportation,head & neck,10-20 USD
+Thirties,Mechanical,back,10-20 USD
+Fifties,Desk_Job,hand,10-20 USD
+Fifties,Desk_Job,hand,10-20 USD
+Thirties,Desk_Job,hand,10-20 USD
+Fifties,construction,untagged,50-100 USD
+Fourties,white_collar,head & neck,50-100 USD
+Fifties,Mechanical,hand,>100 USD
+Fifties,transportation,hand,10-20 USD
+Twenties,Other Indoor,head & neck,10-20 USD
+Fourties,Physical,untagged,20-30 USD
+Fourties,transportation,head & neck,>100 USD
+Fourties,Desk_Job,leg,10-20 USD
+Fourties,Other Outdoor,hand,0-10 USD
+Thirties,home/restaurant,leg,10-20 USD
+>60,home/restaurant,head & neck,10-20 USD
+Twenties,Other Indoor,back,10-20 USD
+Twenties,transportation,head & neck,>100 USD
+Fifties,Physical,leg,10-20 USD
+>60,transportation,hand,10-20 USD
+Fifties,home/restaurant,hand,30-40 USD
+Fifties,Physical,back,10-20 USD
+Thirties,Other Indoor,head & neck,10-20 USD
+Fifties,Physical,hand,10-20 USD
+Fourties,Physical,hand,0-10 USD
+Thirties,transportation,back,10-20 USD
+Twenties,white_collar,back,10-20 USD
+Thirties,Other Indoor,back,10-20 USD
+Thirties,Mechanical,hand,10-20 USD
+Thirties,transportation,leg,0-10 USD
+Thirties,Mechanical,leg,10-20 USD
+>60,Other Outdoor,back,10-20 USD
+Fourties,Other Indoor,hand,10-20 USD
+0-20,Physical,leg,0-10 USD
+Fourties,Other Indoor,leg,10-20 USD
+Fourties,transportation,head & neck,0-10 USD
+Fourties,transportation,brain,10-20 USD
+Fourties,Desk_Job,hand,0-10 USD
+>60,Desk_Job,untagged,10-20 USD
+Fifties,transportation,hand,0-10 USD
+Fifties,transportation,back,20-30 USD
+0-20,Desk_Job,untagged,10-20 USD
+Fifties,transportation,hand,10-20 USD
+Fifties,Physical,back,10-20 USD
+Thirties,Mechanical,leg,10-20 USD
+Fifties,Physical,back,10-20 USD
+Thirties,Other Indoor,leg,0-10 USD
+Thirties,Mechanical,back,20-30 USD
+Thirties,Mechanical,head & neck,20-30 USD
+Thirties,transportation,back,0-10 USD
+Thirties,Other Indoor,leg,10-20 USD
+Fourties,Other Indoor,hand,10-20 USD
+Fifties,construction,back,10-20 USD
+Fourties,transportation,hand,10-20 USD
+Thirties,Mechanical,back,10-20 USD
+Fifties,Mechanical,hand,10-20 USD
+>60,white_collar,hand,10-20 USD
+Fourties,white_collar,untagged,0-10 USD
+Fifties,Mechanical,leg,>100 USD
+Fourties,transportation,head & neck,20-30 USD
+Fourties,Mechanical,leg,10-20 USD
+Twenties,Other Outdoor,head & neck,0-10 USD
+Fourties,Other Indoor,back,10-20 USD
+Twenties,home/restaurant,hand,10-20 USD
+Thirties,Physical,hand,0-10 USD
+>60,Other Indoor,untagged,10-20 USD
+Fourties,Physical,back,10-20 USD
+Thirties,transportation,hand,10-20 USD
+Thirties,Physical,hand,10-20 USD
+Thirties,Desk_Job,chest & lungs,20-30 USD
+Thirties,Physical,leg,10-20 USD
+Fifties,transportation,hernia,10-20 USD
+Fifties,Other Indoor,leg,10-20 USD
+Fifties,home/restaurant,leg,0-10 USD
+Thirties,Physical,hand,10-20 USD
+>60,Mechanical,head & neck,30-40 USD
+Fifties,white_collar,back,10-20 USD
+Twenties,transportation,hand,10-20 USD
+Fifties,Other Indoor,hand,>100 USD
+Twenties,Mechanical,leg,10-20 USD
+Fourties,transportation,head & neck,40-50 USD
+Thirties,Physical,hand,10-20 USD
+Twenties,home/restaurant,back,10-20 USD
+Twenties,transportation,leg,0-10 USD
+>60,Desk_Job,leg,20-30 USD
+Fifties,transportation,hand,10-20 USD
+>60,white_collar,hand,10-20 USD
+Fifties,Physical,hand,10-20 USD
+Thirties,transportation,head & neck,10-20 USD
+Fourties,Physical,chest & lungs,0-10 USD
+Twenties,Physical,back,20-30 USD
+Thirties,Other Indoor,hand,10-20 USD
+>60,construction,back,10-20 USD
+Twenties,Desk_Job,head & neck,0-10 USD
+Fourties,transportation,head & neck,0-10 USD
+Fourties,Physical,hand,10-20 USD
+Thirties,Desk_Job,hand,10-20 USD
+Fourties,transportation,brain,10-20 USD
+Fifties,Other Outdoor,back,30-40 USD
+Fifties,home/restaurant,head & neck,>100 USD
+Thirties,white_collar,back,10-20 USD
+>60,Other Indoor,untagged,30-40 USD
+Twenties,white_collar,back,0-10 USD
+Thirties,white_collar,head & neck,0-10 USD
+Twenties,home/restaurant,head & neck,10-20 USD
+Twenties,Mechanical,leg,0-10 USD
+Thirties,transportation,leg,10-20 USD
+Fifties,Mechanical,back,10-20 USD
+Fourties,Other Indoor,head & neck,10-20 USD
+Twenties,Other Indoor,stomach,0-10 USD
+Fourties,Mechanical,chest & lungs,10-20 USD
+Fourties,Other Indoor,leg,0-10 USD
+>60,Other Indoor,head & neck,10-20 USD
+0-20,Other Indoor,head & neck,10-20 USD
+Twenties,Physical,leg,10-20 USD
+Fifties,Mechanical,back,10-20 USD
+Fifties,Mechanical,hand,10-20 USD
+Twenties,construction,head & neck,10-20 USD
+0-20,Other Indoor,hand,10-20 USD
+Twenties,transportation,head & neck,10-20 USD
+>60,transportation,head & neck,10-20 USD
+Fifties,transportation,leg,10-20 USD
+Fourties,home/restaurant,hand,0-10 USD
+Fifties,transportation,hand,40-50 USD
+Fifties,home/restaurant,hand,20-30 USD
+Twenties,Physical,hand,10-20 USD
+Thirties,Physical,brain,10-20 USD
+Thirties,white_collar,back,10-20 USD
+0-20,Other Indoor,back,10-20 USD
+Twenties,Desk_Job,head & neck,0-10 USD
+Fifties,Physical,hand,>100 USD
+Fifties,Other Outdoor,leg,10-20 USD
+Twenties,transportation,brain,10-20 USD
+Thirties,Other Indoor,leg,20-30 USD
+>60,Desk_Job,untagged,10-20 USD
+Fifties,Mechanical,untagged,>100 USD
+Fourties,Desk_Job,back,0-10 USD
+>60,Other Indoor,head & neck,20-30 USD
+Twenties,Other Indoor,head & neck,10-20 USD
+Fourties,Other Outdoor,back,0-10 USD
+Fifties,Other Indoor,hand,10-20 USD
+Twenties,Physical,hand,0-10 USD
+Fifties,Other Indoor,hand,0-10 USD
+Twenties,transportation,head & neck,10-20 USD
+Fourties,Physical,head & neck,10-20 USD
+>60,Other Indoor,hand,10-20 USD
+Thirties,home/restaurant,leg,20-30 USD
+Fourties,Physical,brain,10-20 USD
+Thirties,Physical,hand,0-10 USD
+Thirties,Desk_Job,back,10-20 USD
+>60,white_collar,back,10-20 USD
+Fourties,transportation,back,30-40 USD
+Fourties,Physical,back,30-40 USD
+Thirties,Mechanical,back,10-20 USD
+Fourties,Other Indoor,head & neck,20-30 USD
+Thirties,Mechanical,hand,0-10 USD
+Twenties,Mechanical,hernia,10-20 USD
+>60,Physical,back,20-30 USD
+Fifties,Mechanical,brain,10-20 USD
+>60,Other Indoor,head & neck,10-20 USD
+Thirties,Other Indoor,hand,>100 USD
+Twenties,transportation,hand,10-20 USD
+Fourties,Other Indoor,back,10-20 USD
+Twenties,Desk_Job,brain,10-20 USD
+Fifties,Other Outdoor,head & neck,10-20 USD
+Twenties,Mechanical,chest & lungs,0-10 USD
+>60,white_collar,untagged,10-20 USD
+Fifties,Desk_Job,back,10-20 USD
+Fourties,Mechanical,hand,10-20 USD
+Twenties,Other Indoor,back,10-20 USD
+Thirties,Desk_Job,brain,>100 USD
+Twenties,Desk_Job,brain,0-10 USD
+Thirties,transportation,untagged,10-20 USD
+Twenties,transportation,hand,0-10 USD
+Twenties,Physical,leg,0-10 USD
+Fifties,Physical,leg,10-20 USD
+Fourties,Desk_Job,leg,10-20 USD
+Fourties,white_collar,back,>100 USD
+Fourties,Mechanical,hand,>100 USD
+Twenties,white_collar,back,0-10 USD
+Fifties,Desk_Job,head & neck,10-20 USD
+Thirties,home/restaurant,leg,10-20 USD
+Twenties,Physical,leg,10-20 USD
+Fifties,Other Outdoor,back,10-20 USD
+Fourties,Other Indoor,head & neck,10-20 USD
+Twenties,Other Indoor,back,10-20 USD
+Thirties,transportation,back,10-20 USD
+Twenties,transportation,hand,0-10 USD
+Thirties,transportation,back,20-30 USD
+Thirties,Mechanical,untagged,10-20 USD
+Thirties,Mechanical,head & neck,10-20 USD
+Thirties,transportation,back,20-30 USD
+Twenties,Mechanical,hand,>100 USD
+Thirties,Mechanical,head & neck,10-20 USD
+Fifties,transportation,hand,10-20 USD
+Fifties,Mechanical,leg,10-20 USD
+Thirties,transportation,hand,10-20 USD
+Fifties,home/restaurant,hand,10-20 USD
+Twenties,Mechanical,hand,10-20 USD
+Fourties,Other Indoor,hand,10-20 USD
+Thirties,Physical,leg,10-20 USD
+Fourties,Other Indoor,head & neck,10-20 USD
+>60,Other Indoor,hand,0-10 USD
+Fifties,Other Outdoor,head & neck,10-20 USD
+Fifties,Other Indoor,back,20-30 USD
+Fourties,Desk_Job,back,0-10 USD
+Thirties,Mechanical,hand,10-20 USD
+Thirties,Physical,head & neck,>100 USD
+Fourties,transportation,leg,40-50 USD
+>60,Physical,hand,10-20 USD
+Fifties,Mechanical,hand,20-30 USD
+Thirties,transportation,hand,10-20 USD
+Twenties,white_collar,back,10-20 USD
+Fourties,white_collar,hand,0-10 USD
+Fifties,Other Indoor,back,>100 USD
+Twenties,Other Indoor,chest & lungs,10-20 USD
+Fifties,Other Indoor,hand,0-10 USD
+Fourties,Physical,back,10-20 USD
+Fifties,home/restaurant,leg,10-20 USD
+Fifties,Other Indoor,brain,0-10 USD
+Fifties,Other Indoor,back,10-20 USD
+Fifties,transportation,hand,10-20 USD
+Thirties,Mechanical,chest & lungs,0-10 USD
+Fifties,Mechanical,back,10-20 USD
+Fifties,Desk_Job,back,10-20 USD
+Fifties,Mechanical,back,10-20 USD
+Fifties,Desk_Job,head & neck,10-20 USD
+Twenties,transportation,back,10-20 USD
+>60,transportation,back,10-20 USD
+Fifties,transportation,head & neck,40-50 USD
+Thirties,Other Indoor,leg,20-30 USD
+Fifties,Other Indoor,back,40-50 USD
+Fifties,Other Indoor,back,50-100 USD
+Thirties,construction,back,30-40 USD
+Fifties,Other Indoor,hand,40-50 USD
+Fifties,Other Indoor,back,10-20 USD
+Fifties,construction,head & neck,20-30 USD
+Fourties,Other Indoor,back,10-20 USD
+Twenties,Other Indoor,brain,10-20 USD
+Thirties,transportation,back,30-40 USD
+Thirties,transportation,head & neck,20-30 USD
+Fifties,Mechanical,hand,20-30 USD
+Fifties,Desk_Job,back,30-40 USD
+Thirties,Physical,hand,20-30 USD
+Fourties,Other Indoor,chest & lungs,30-40 USD
+>60,home/restaurant,hand,30-40 USD
+Fifties,Other Outdoor,head & neck,20-30 USD
+Twenties,Physical,hand,20-30 USD
+>60,home/restaurant,hand,20-30 USD
+Fifties,Mechanical,hernia,20-30 USD
+Twenties,transportation,back,20-30 USD
+Thirties,transportation,back,20-30 USD
+Fifties,Physical,leg,40-50 USD
+Fifties,transportation,head & neck,40-50 USD
+Thirties,transportation,hand,10-20 USD
+Thirties,construction,back,20-30 USD
+Fourties,Other Indoor,back,20-30 USD
+Fourties,home/restaurant,hand,20-30 USD
+Fifties,Physical,hand,20-30 USD
+Fifties,Physical,leg,30-40 USD
+Thirties,Other Outdoor,hand,30-40 USD
+Fifties,transportation,leg,40-50 USD
+Fifties,Other Outdoor,back,30-40 USD
+Thirties,Other Indoor,hand,20-30 USD
+Fourties,Other Indoor,leg,20-30 USD
+Fourties,transportation,head & neck,20-30 USD
+Fourties,transportation,head & neck,30-40 USD
+>60,Mechanical,untagged,10-20 USD
+Thirties,Mechanical,head & neck,10-20 USD
+>60,Other Indoor,leg,20-30 USD
+Fifties,white_collar,back,40-50 USD
+Fourties,Mechanical,hand,10-20 USD
+Fourties,transportation,leg,10-20 USD
+Thirties,transportation,head & neck,10-20 USD
+Thirties,Mechanical,back,10-20 USD
+Fifties,Other Indoor,leg,20-30 USD
+Fourties,Other Indoor,leg,30-40 USD
+Twenties,Other Indoor,leg,20-30 USD
+Fourties,Mechanical,leg,40-50 USD
+Fifties,transportation,hand,10-20 USD
+Fifties,Physical,brain,20-30 USD
+Twenties,Desk_Job,back,20-30 USD
+Thirties,white_collar,hand,30-40 USD
+Fifties,Desk_Job,leg,30-40 USD
+Fifties,Other Indoor,hand,40-50 USD
+Thirties,Desk_Job,leg,20-30 USD
+Thirties,transportation,hand,10-20 USD
+Fourties,Other Indoor,back,30-40 USD
+Fourties,home/restaurant,back,20-30 USD
+>60,Mechanical,untagged,30-40 USD
+>60,Other Indoor,untagged,>100 USD
+>60,Mechanical,leg,20-30 USD
+Thirties,Other Outdoor,leg,10-20 USD
+Thirties,Mechanical,head & neck,20-30 USD
+>60,construction,leg,30-40 USD
+Thirties,Physical,untagged,20-30 USD
+Fifties,Physical,back,20-30 USD
+Fifties,construction,leg,10-20 USD
+Fourties,Physical,leg,10-20 USD
+Thirties,Physical,head & neck,30-40 USD
+Fourties,Other Indoor,hernia,10-20 USD
+Fourties,Physical,back,30-40 USD
+Thirties,Physical,head & neck,20-30 USD
+Thirties,Other Indoor,back,10-20 USD
+Fourties,Physical,back,40-50 USD
+Thirties,transportation,back,40-50 USD
+Thirties,Other Indoor,leg,30-40 USD
+>60,Other Indoor,hand,20-30 USD
+Fifties,Other Indoor,hand,20-30 USD
+Fourties,Other Indoor,leg,10-20 USD
+0-20,Physical,head & neck,10-20 USD
+Fifties,Physical,back,50-100 USD
+Fourties,Physical,head & neck,40-50 USD
+Fifties,construction,head & neck,20-30 USD
+Fifties,construction,leg,40-50 USD
+Fourties,construction,leg,30-40 USD
+Fifties,Mechanical,head & neck,50-100 USD
+Twenties,construction,leg,20-30 USD
+Fifties,construction,hand,40-50 USD
+Fourties,Other Indoor,back,30-40 USD
+>60,Other Indoor,head & neck,10-20 USD
+Fifties,Desk_Job,leg,40-50 USD
+Fourties,Other Indoor,hernia,20-30 USD
+Fourties,Physical,back,30-40 USD
+Fourties,white_collar,hand,20-30 USD
+>60,Physical,leg,10-20 USD
+Fifties,Mechanical,leg,20-30 USD
+Fourties,Other Indoor,untagged,20-30 USD
+Fourties,Other Indoor,brain,20-30 USD
+Fifties,Physical,head & neck,40-50 USD
+0-20,Desk_Job,leg,40-50 USD
+Fourties,Physical,back,0-10 USD
+Thirties,Physical,hand,20-30 USD
+Fifties,Physical,untagged,10-20 USD
+Fourties,Desk_Job,head & neck,30-40 USD
+Fourties,home/restaurant,leg,40-50 USD
+>60,Other Indoor,leg,30-40 USD
+Twenties,construction,untagged,10-20 USD
+Twenties,Other Indoor,head & neck,10-20 USD
+Thirties,Mechanical,back,10-20 USD
+Fifties,home/restaurant,back,10-20 USD
+>60,Physical,head & neck,0-10 USD
+Fifties,home/restaurant,hand,10-20 USD
+Fifties,Desk_Job,back,10-20 USD
+Fourties,Other Indoor,chest & lungs,10-20 USD
+Fourties,Other Indoor,leg,10-20 USD
+Fourties,Other Indoor,back,10-20 USD
+Fifties,Other Indoor,back,10-20 USD
+>60,Other Indoor,head & neck,10-20 USD
+Thirties,Other Indoor,hand,0-10 USD
+Fifties,transportation,back,10-20 USD
+Thirties,Other Indoor,head & neck,20-30 USD
+Twenties,Desk_Job,head & neck,10-20 USD
+Fifties,white_collar,back,20-30 USD
+Fifties,Other Outdoor,hand,10-20 USD
+0-20,Other Outdoor,head & neck,10-20 USD
+Fifties,Other Outdoor,leg,20-30 USD
+Fourties,transportation,back,10-20 USD
+Thirties,white_collar,back,20-30 USD
+Twenties,Other Indoor,hand,10-20 USD
+Fifties,Other Outdoor,back,>100 USD
+>60,white_collar,leg,20-30 USD
+Fifties,Mechanical,chest & lungs,10-20 USD
+Thirties,white_collar,untagged,10-20 USD
+Fifties,Other Indoor,leg,10-20 USD
+Fifties,home/restaurant,head & neck,10-20 USD
+Fifties,Desk_Job,hand,10-20 USD
+Fifties,Physical,head & neck,10-20 USD
+Fifties,construction,leg,10-20 USD
+Fifties,Desk_Job,head & neck,30-40 USD
+Fourties,Mechanical,hand,30-40 USD
+Thirties,Other Indoor,back,30-40 USD
+Twenties,Desk_Job,back,10-20 USD
+Fourties,Desk_Job,back,10-20 USD
+Twenties,Desk_Job,back,10-20 USD
+Fifties,Desk_Job,back,30-40 USD
+>60,Physical,back,30-40 USD
+Thirties,Other Indoor,head & neck,30-40 USD
+Thirties,Mechanical,hand,10-20 USD
+Fifties,Desk_Job,untagged,10-20 USD
+>60,transportation,head & neck,30-40 USD
+Twenties,Desk_Job,head & neck,20-30 USD
+Thirties,Other Indoor,hand,10-20 USD
+Fourties,Mechanical,leg,30-40 USD
+Fifties,Desk_Job,leg,30-40 USD
+Fifties,Other Indoor,leg,30-40 USD
+Thirties,Other Indoor,back,30-40 USD
+Fifties,Desk_Job,head & neck,20-30 USD
+Fifties,Physical,back,20-30 USD
+>60,Desk_Job,leg,20-30 USD
+Twenties,Desk_Job,chest & lungs,10-20 USD
+Twenties,Desk_Job,untagged,10-20 USD
+Fifties,transportation,hernia,20-30 USD
+Fifties,Mechanical,back,30-40 USD
+>60,Mechanical,hand,20-30 USD
+Fifties,Mechanical,untagged,40-50 USD
+Thirties,Other Outdoor,leg,20-30 USD
+Fourties,transportation,hand,40-50 USD
+Fifties,transportation,back,10-20 USD
+>60,Other Indoor,back,20-30 USD
+Thirties,Physical,chest & lungs,40-50 USD
+>60,construction,head & neck,40-50 USD
+Fifties,Other Indoor,hernia,40-50 USD
+Thirties,construction,hand,40-50 USD
+Fourties,Other Indoor,back,10-20 USD
+Thirties,Other Indoor,hand,10-20 USD
+Fourties,home/restaurant,leg,10-20 USD
+Fifties,white_collar,untagged,10-20 USD
+Fifties,Desk_Job,hand,20-30 USD
+Fourties,Physical,back,30-40 USD
+Fourties,Mechanical,head & neck,10-20 USD
+Fifties,Other Outdoor,untagged,10-20 USD
+Fourties,home/restaurant,head & neck,20-30 USD
+Fifties,white_collar,head & neck,10-20 USD
+Fifties,Other Indoor,back,20-30 USD
+>60,Other Indoor,back,20-30 USD
+Twenties,transportation,head & neck,10-20 USD
+Thirties,Other Indoor,hand,10-20 USD
+Twenties,transportation,leg,10-20 USD
+Twenties,Desk_Job,hand,10-20 USD
+Fourties,Desk_Job,leg,20-30 USD
+Twenties,Other Indoor,untagged,>100 USD
+Fourties,Desk_Job,head & neck,20-30 USD
+Fourties,Other Indoor,leg,20-30 USD
+>60,Other Indoor,leg,50-100 USD
+Thirties,home/restaurant,untagged,20-30 USD
+Fifties,Other Indoor,leg,20-30 USD
+Fifties,Other Outdoor,head & neck,10-20 USD
+Thirties,Other Indoor,hand,20-30 USD
+Thirties,Desk_Job,brain,10-20 USD
+Fourties,Other Outdoor,hand,10-20 USD
+Fourties,Other Indoor,leg,10-20 USD
+Fifties,white_collar,untagged,20-30 USD
+Fourties,Desk_Job,hand,20-30 USD
+Fifties,white_collar,head & neck,10-20 USD
+Thirties,white_collar,leg,10-20 USD
+Fourties,transportation,hand,10-20 USD
+Fifties,Physical,head & neck,10-20 USD
+Thirties,Other Indoor,back,10-20 USD
+Thirties,home/restaurant,head & neck,10-20 USD
+>60,Mechanical,brain,20-30 USD
+Fifties,Other Indoor,back,40-50 USD
+Fifties,home/restaurant,hand,10-20 USD
+Fifties,Other Indoor,hand,20-30 USD
+Fifties,Desk_Job,brain,20-30 USD
+Fifties,Desk_Job,leg,20-30 USD
+Fourties,Other Outdoor,back,10-20 USD
+Fourties,Desk_Job,back,20-30 USD
+Twenties,Other Indoor,head & neck,>100 USD
+Fourties,Other Indoor,hand,10-20 USD
+Twenties,Physical,leg,10-20 USD
+Thirties,Physical,head & neck,40-50 USD
+Fifties,Other Indoor,untagged,50-100 USD
+>60,Physical,back,10-20 USD
+Fifties,Mechanical,back,20-30 USD
+Thirties,Mechanical,leg,20-30 USD
+>60,Other Indoor,hernia,20-30 USD
+Thirties,transportation,hand,20-30 USD
+Fifties,Desk_Job,hand,10-20 USD
+>60,transportation,stomach,10-20 USD
+Fifties,Other Indoor,hand,40-50 USD
+Thirties,Other Indoor,leg,20-30 USD
+Fifties,Other Outdoor,hand,30-40 USD
+Thirties,Desk_Job,hand,20-30 USD
+>60,Physical,head & neck,10-20 USD
+Thirties,Physical,head & neck,20-30 USD
+Fifties,Mechanical,back,30-40 USD
+Thirties,home/restaurant,head & neck,0-10 USD
+Fourties,Mechanical,untagged,30-40 USD
+Fourties,Other Indoor,head & neck,10-20 USD
+Fifties,Other Indoor,untagged,30-40 USD
+Fourties,Mechanical,hand,40-50 USD
+>60,Other Indoor,brain,50-100 USD
+Fifties,Other Indoor,hand,30-40 USD
+Fourties,construction,leg,20-30 USD
+Fourties,transportation,hand,20-30 USD
+Fifties,transportation,back,20-30 USD
+Fourties,transportation,back,20-30 USD
+>60,Physical,leg,30-40 USD
+Twenties,Physical,back,20-30 USD
+Fifties,Physical,leg,20-30 USD
+>60,Physical,untagged,10-20 USD
+>60,Physical,hand,10-20 USD
+Fifties,Other Indoor,leg,10-20 USD
+Thirties,home/restaurant,untagged,30-40 USD
+Thirties,white_collar,untagged,10-20 USD
+Thirties,Desk_Job,brain,40-50 USD
+Thirties,Mechanical,hand,10-20 USD
+Fifties,Mechanical,leg,20-30 USD
+Fourties,Other Indoor,back,20-30 USD
+Fifties,transportation,back,10-20 USD
+Fifties,transportation,leg,10-20 USD
+Twenties,Mechanical,back,10-20 USD
+Thirties,Other Outdoor,leg,10-20 USD
+Thirties,Desk_Job,back,40-50 USD
+Fourties,Other Indoor,back,30-40 USD
+>60,transportation,back,30-40 USD
+Fifties,Desk_Job,leg,10-20 USD
+Fifties,Mechanical,leg,10-20 USD
+Fourties,Other Indoor,hand,20-30 USD
+Twenties,home/restaurant,back,20-30 USD
+Twenties,Desk_Job,leg,10-20 USD
+Fifties,Desk_Job,hand,30-40 USD
+Fifties,Other Indoor,hand,30-40 USD
+Thirties,Other Indoor,back,0-10 USD
+Fifties,Desk_Job,head & neck,10-20 USD
+Fourties,Desk_Job,untagged,10-20 USD
+Fourties,white_collar,brain,10-20 USD
+Thirties,Physical,head & neck,20-30 USD
+Fifties,white_collar,leg,10-20 USD
+>60,Physical,leg,10-20 USD
+Thirties,Other Indoor,hand,20-30 USD
+Thirties,transportation,back,10-20 USD
+Thirties,Mechanical,untagged,10-20 USD
+Fifties,transportation,head & neck,10-20 USD
+Thirties,Desk_Job,leg,10-20 USD
+Fourties,Other Indoor,hernia,30-40 USD
+Fifties,Physical,back,30-40 USD
+>60,construction,hand,10-20 USD
+Thirties,Other Indoor,back,20-30 USD
+Fifties,Physical,brain,30-40 USD
+Fourties,Desk_Job,leg,0-10 USD
+Fourties,transportation,leg,10-20 USD
+Twenties,Physical,brain,0-10 USD
+Fourties,Desk_Job,back,10-20 USD
+Fourties,Other Indoor,chest & lungs,10-20 USD
+Fifties,Other Indoor,chest & lungs,10-20 USD
+Fourties,Other Indoor,back,10-20 USD
+Fifties,home/restaurant,untagged,10-20 USD
+Thirties,Physical,hand,20-30 USD

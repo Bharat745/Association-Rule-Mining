@@ -38,10 +38,13 @@ inspect(sort(rules, by="support")[1:5])
 install.packages("arulesViz")
 library(arulesViz)
 
+# Different ways of plotting and visualizing the rules
 plot(rules)
 plot(rules, method="grouped")
 plot(rules,method="graph")
 plot(rules, method= "graph", interactive = T )
+
+# Rules which have higher lift, support and confidence are more reliable
 
 # RHS predefined rules
 
@@ -71,15 +74,7 @@ rw5<- apriori(data=P, parameter=list
 inspect(sort(rw5, by="lift"))
 plot(rw5,method="graph")
 
-rw6<- apriori(data=P, parameter=list 
-              (supp=0.001,conf = 0.5), appearance = list (rhs="Wage.buckets=50-100 USD"))
-inspect(sort(rw6, by="lift"))
-plot(rw6,method="graph")
-
-rw7<- apriori(data=P, parameter=list 
-              (supp=0.001,conf = 0.5), appearance = list (rhs="Wage.buckets= >100 USD"))
-inspect(sort(rw6, by="lift"))
-plot(rw6,method="graph")
+# similiar analysis can be done for different values of support and confidence to find important rules
 
 # Injury based analysis
 ri1<- apriori(data=P, parameter=list 
@@ -119,3 +114,6 @@ inspect(sort(ra2, by="lift"))
 ra3<- apriori(data=P, parameter=list 
               (supp=0.001,conf = 0.5), appearance = list (rhs="Age.bucket=Fourties"))
 inspect(sort(ra3, by="lift")[1:5])
+
+# Association rule analysis helps us to find the relationship between different variables
+# in the data set to better understand the information from the data
